@@ -3967,6 +3967,15 @@ external material, you will probably meet with disappointing results.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The
+translations may not always be up to date.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220205T155038Z" creationid="alexeygorelov" creationdate="20220205T155038Z">
+        <seg>Переводы не всегда могут быть в актуальном состоянии.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>if you enter или if you try to enter?</note>
       <tuv lang="en-US">
         <seg>The
