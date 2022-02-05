@@ -20,6 +20,14 @@
         <seg>## Быстрый старт</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Translations</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220205T134846Z" creationid="alexeygorelov" creationdate="20220205T134846Z">
+        <seg>## Переводы</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
