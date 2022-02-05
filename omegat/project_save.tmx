@@ -2468,6 +2468,15 @@ example:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>For a quick way to dive into Anki, please have a look at these intro
+videos.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220205T161847Z" creationid="alexeygorelov" creationdate="20220205T161847Z">
+        <seg>Для быстрого погружения в Anki, пожалуйста, посмотрите эти вступительные видео.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a quick way to dive into Anki, please have a look at these intro
 videos. Some were made with a previous Anki version, but the concepts
 are the same.</seg>
       </tuv>
@@ -3833,6 +3842,15 @@ back sides.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="alex" changedate="20201007T164232Z" creationid="alex" creationdate="20201007T164232Z">
         <seg>Некоторые студенты-медики объединились для того, чтобы сделать платный курс, ориентированный на использование Anki в медицинской школе: https://courses.ankipalace.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some were made with a previous Anki version, but the concepts
+are the same.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220205T161955Z" creationid="alexeygorelov" creationdate="20220205T161955Z">
+        <seg>Некоторые из них были сделаны в предыдущей версии программы Anki, но концепция осталась та же.</seg>
       </tuv>
     </tu>
     <tu>
