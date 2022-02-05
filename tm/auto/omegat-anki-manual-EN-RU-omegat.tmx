@@ -1,0 +1,2340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="paragraph" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg># Add-ons</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20220202T081042Z" creationid="alex" creationdate="20220202T081010Z">
+        <seg># Дополнения (Add-ons)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Adding/Editing</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201010T062709Z" creationid="alex" creationdate="20200926T065015Z">
+        <seg># Добавление/изменение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Background</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T074015Z" creationid="alex" creationdate="20200922T074015Z">
+        <seg># Общие сведения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Card Templates</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201002T095446Z" creationid="alex" creationdate="20201002T095446Z">
+        <seg># Шаблоны карточек</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Deck Options</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201017T092803Z" creationid="alex" creationdate="20201017T092803Z">
+        <seg># Настройки колоды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Exporting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201010T062542Z" creationid="alex" creationdate="20201010T062542Z">
+        <seg># Экспортирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Filtered Decks &amp; Cramming</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201114T044359Z" creationid="alex" creationdate="20201114T044359Z">
+        <seg># Фильтрованные колоды и зубрёжка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Frequently Asked Questions</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T074541Z" creationid="alex" creationdate="20200922T074541Z">
+        <seg># Часто задаваемые вопросы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Getting Started</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201008T055257Z" creationid="alex" creationdate="20200922T074651Z">
+        <seg># Начало работы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Feature request
+Показывать список всех тегов (меток) при вводе, а не только тех, которые начинаешь набирать.
+
+Bug
+Регистронезависимый ли поиск? А то "Большая" и "большая" буквы это два разных слова.</note>
+      <tuv lang="en-US">
+        <seg># Introduction</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T074926Z" creationid="alex" creationdate="20200922T074926Z">
+        <seg># Введение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Preferences</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201016T084244Z" creationid="alex" creationdate="20201016T084244Z">
+        <seg># Настройки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Resources</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T075406Z" creationid="alex" creationdate="20200922T075406Z">
+        <seg># Ресурсы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Учёба, заучивать на изусть, штудирование.</note>
+      <tuv lang="en-US">
+        <seg># Studying</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201008T065358Z" creationid="alex" creationdate="20201008T065358Z">
+        <seg># Изучение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Active Recall Testing</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T074159Z" creationid="alex" creationdate="20200922T074159Z">
+        <seg>## Активная проверка воспоминаний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Adding Cards and Notes</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200926T065045Z" creationid="alex" creationdate="20200926T065045Z">
+        <seg>## Добавление карточек и записей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Adding a Note Type</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201205T040306Z" creationid="alex" creationdate="20201205T040306Z">
+        <seg>## Добавление типа записи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Checking Your Answer</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201012T054608Z" creationid="alex" creationdate="20201012T054608Z">
+        <seg>## Проверка своего ответа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Cloze Deletion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201006T061918Z" creationid="alex" creationdate="20201006T061918Z">
+        <seg>## Заполнение пропусков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Customizing Fields</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200927T073538Z" creationid="alex" creationdate="20200927T073538Z">
+        <seg>## Настройка полей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Decks</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201009T072332Z" creationid="alex" creationdate="20201009T072332Z">
+        <seg>## Колоды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Display Order</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200924T200145Z" creationid="alex" creationdate="20200924T200145Z">
+        <seg>## Порядок отображения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Счётчик запланированного</note>
+      <tuv lang="en-US">
+        <seg>## Due Counts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Editing and More</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201019T095225Z" creationid="alex" creationdate="20201019T095225Z">
+        <seg>## Правка и ещё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Falling Behind</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201106T045747Z" creationid="alex" creationdate="20201106T045747Z">
+        <seg>## Отставание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Installing &amp; Upgrading</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T074659Z" creationid="alex" creationdate="20200922T074659Z">
+        <seg>## Установка и обновление</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Key Concepts</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200923T051421Z" creationid="alex" creationdate="20200923T051421Z">
+        <seg>## Основные понятия</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Keyboard Shortcuts</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201026T150509Z" creationid="alex" creationdate="20201026T150509Z">
+        <seg>## Клавиатурные сокращения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Questions</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201011T080131Z" creationid="alex" creationdate="20201011T080131Z">
+        <seg>## Вопросы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Quickstart</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T074934Z" creationid="alex" creationdate="20200922T074934Z">
+        <seg>## Быстрый старт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Shared Decks</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201007T045855Z" creationid="alex" creationdate="20201007T045855Z">
+        <seg>## Общие колоды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Siblings and Burying</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201023T064109Z" creationid="alex" creationdate="20201023T064109Z">
+        <seg>## Связанные и отложенные</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Spaced Repetition</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T141757Z" creationid="alex" creationdate="20210815T141757Z">
+        <seg>## Интервальное повторение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Special Fields</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201208T062159Z" creationid="alex" creationdate="20201208T062159Z">
+        <seg>## Специальные поля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Study Overview</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201011T080723Z" creationid="alex" creationdate="20201011T080723Z">
+        <seg>## Общие сведения об изучении</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Translations</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T075005Z" creationid="alex" creationdate="20200922T075005Z">
+        <seg>## Переводы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Use It or Lose It</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T074252Z" creationid="alex" creationdate="20200922T074252Z">
+        <seg>## Используй или потеряешь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Videos</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T074713Z" creationid="alex" creationdate="20200922T074713Z">
+        <seg>## Видео</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Why Anki?</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T074430Z" creationid="alex" creationdate="20200922T074430Z">
+        <seg>## Почему Anki?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Выбор "Типа карточек" из меню добавления "записи" находится "в кнопке" под названием "Карточки...", хотя как по мне правильнее было бы назвать её "шаблоны" т. к. "карточек" как таковых здесь нет, а только "записи", "типы", "шаблоны", "поля" по которым уже позднее будут созданы "карточки".</note>
+      <tuv lang="en-US">
+        <seg>### Card Types</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200927T073724Z" creationid="alex" creationdate="20200927T073724Z">
+        <seg>### Типы карточек</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Cards</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200923T051829Z" creationid="alex" creationdate="20200923T051433Z">
+        <seg>### Карточки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Collection</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201006T064902Z" creationid="alex" creationdate="20201006T064902Z">
+        <seg>### Коллекция</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Decks</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200923T064432Z" creationid="alex" creationdate="20200923T064432Z">
+        <seg>### Колоды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Стандартных типов записей уже 5, а описано ещё только 4. Добавить описание Основная (с вводом ответа)</note>
+      <tuv lang="en-US">
+        <seg>### Note Types</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201003T090517Z" creationid="alex" creationdate="20201003T090517Z">
+        <seg>### Типы записей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Notes &amp; Fields</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200925T164221Z" creationid="alex" creationdate="20200925T164221Z">
+        <seg>### Записи и поля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Again** marks your answer as incorrect and asks Anki to show the card
+more frequently in the future. The card is said to have 'lapsed'. Please
+see the [lapses](deck-options.md#lapses) section for more information about how lapsed
+reviews are handled.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T155533Z" creationid="alex" creationdate="20210303T064808Z">
+        <seg>**Снова** — помечает ваш ответ как неверный и указывает Anki чаще показывать
+карточку в будущем. Карточка считается 'забытой' (англ. *lapsed*). Смотрите
+раздел [забытые](deck-options.md#Забытые) для получения более подробной
+информации о том, как обрабатываются забытые повторения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Again** moves the card back to the first step.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T153907Z" creationid="alex" creationdate="20201013T065805Z">
+        <seg>**Снова** — перемещает карточку обратно к первому шагу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Sort by this field…​** tells Anki to show this field in the Sort Field
+column of the browser. You can use this to sort cards by that field.
+Only one field can be the sort field at once.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210320T034724Z" creationid="alex" creationdate="20201212T062735Z">
+        <seg>**Сортировать по этому полю…​** указывает Anki отображать это поле в столбце
+Поле сортировки обозревателя. Это можно использовать для сортировки карточек по
+этому полю. Одновременно только одно поле может быть полем сортировки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Audio -5s / +5s**: Jump backwards / forward 5 seconds in the currently playing audio.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T165626Z" creationid="alex" creationdate="20210815T165626Z">
+        <seg>- **Аудио -5с / +5с**: Переход назад / вперед на 5 секунд в воспроизводимом аудио.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Bury Card / Note**: Hides a card or all of the note’s cards from review until the next day.
+(If you want to unbury cards before then, you can click the “unbury”
+button on the [deck overview](studying.md#study-overview) screen.) This is useful if
+you cannot answer the card at the moment or you want to come back to it
+another time. Burying can also [happen automatically](studying.md#siblings-and-burying) for
+cards of the same note.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T160242Z" creationid="alex" creationdate="20210815T160242Z">
+        <seg>- **Отложить карточку / запись**: Прячет карточку или все карточки записи от
+показа до следующего дня. (Если вы хотите вернуть карточки раньше, нажмите
+кнопку "вернуть" в окне [обзора колоды](studying.md#Общие-сведения-об-изучении).)
+Это полезно, если в данный момент вы не можете ответить на карточку или хотите
+вернуться к ней в другой раз. Откладывание также может [произойти автоматически](studying.md#Связанные-и-отложенные) для карточек одной записи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Card Info**: Displays [statistical information](stats.md#card-info) about the card.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T164857Z" creationid="alex" creationdate="20210815T164857Z">
+        <seg>- **Сведения о карточке**: Отображает [статистику](stats.md#card-info) по карточке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Delete Note**: Deletes the note and all of its cards.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T162743Z" creationid="alex" creationdate="20210815T162743Z">
+        <seg>- **Удалить запись**: Удаляет запись и все её карточки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Learning** refers to cards that were seen for the first time
+  recently, and are still being learnt.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T153822Z" creationid="alex" creationdate="20201010T071515Z">
+        <seg>- **Изучаемые** — это карточки, которые недавно были показаны первый раз и
+  сейчас в процессе изучения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **New** refers to cards that you have downloaded or entered in, but
+  have never been studied before.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T153813Z" creationid="alex" creationdate="20201010T071042Z">
+        <seg>- **Новые** — это карточки, которые вы скачали или добавлены вручную, но
+  никогда раньше не изучали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Options**: Edit the [options](deck-options.md) for the current deck.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T161951Z" creationid="alex" creationdate="20210815T161951Z">
+        <seg>- **Настройки**: Редактировать настройки текущей колоды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Pause Audio**: Pauses the audio if it is playing.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T164549Z" creationid="alex" creationdate="20210815T164549Z">
+        <seg>- **Аудио на паузу**: приостанавливает воспроизведение звука.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Record Own Voice**: Record from your microphone for the purposes of checking your
+pronunciation. This recording is temporary and will go away when you
+move to the next card. If you want to add audio to a card permanently,
+you can do that in the edit window.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T163048Z" creationid="alex" creationdate="20210815T163048Z">
+        <seg>- **Записать свой голос**: Запись с микрофона для проверки произношения. Это
+временная запись и она исчезнет при переходе к следующей карточке. Если вы
+хотите добавить на карточку постоянную аудио-запись, то это можно сделать в окне редактирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Replay Audio**: If the card has audio on the front or back, play it again.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T162833Z" creationid="alex" creationdate="20210815T162833Z">
+        <seg>- **Повторное воспроизведение аудио**: Если у карточки есть аудио на лицевой или оборотной стороне, воспроизводит его повторно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Replay Own Voice**: Replay the previous recording of your voice (presumably after showing
+the answer).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T163155Z" creationid="alex" creationdate="20210815T163155Z">
+        <seg>- **Воспроизвести свой голос**: Воспроизвести предыдущую запись своего голоса (предположительно, после показа ответа).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Suspend Card / Note**: Hides a card or all of the note’s cards from review until they are
+   manually unsuspended (by clicking the suspend button in the browser).
+   This is useful if you want to avoid reviewing the note for some time,
+   but don’t want to delete it.
+   With the old scheduler, if cards were in learning when they are
+   suspended, they are moved back to the new card queue or review queue
+   prior to being suspended.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T163320Z" creationid="alex" creationdate="20210815T161930Z">
+        <seg>- **Исключить карточку / запись**: Прячет карточку или все карточки записи от
+   показа до тех пор, пока они не будут включены вручную (нажатием кнопки
+   исключения–включения в окне обзора). Это полезно, если вы не хотите повторять
+   запись некоторое время, но не хотите удалять её.
+   Со старым планировщиком, если карточки находятся в процессе изучения на
+   момент их исключения, то сперва они перемещаются обратно в очередь новых
+   карточек или очередь повторяемых перед исключением.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **To Review** refers to cards that were previously learnt, and now
+  need to be reviewed so you don’t forget them.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T153833Z" creationid="alex" creationdate="20201010T071836Z">
+        <seg>- **Повторяемые** — это карточки, которые были изучены ранее, а теперь должны
+  быть пересмотрены, чтобы вы их не забыли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Because such programs don’t track your performance of recognition
+  and production separately, cards will tend not to be shown to you at
+  the optimum time, meaning you forget more than you’d like, or you
+  study more than is necessary.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200926T160410Z" creationid="alex" creationdate="20200925T171052Z">
+        <seg>- Поскольку подобные программы отслеживают вашу способность к распознаванию и
+  воспроизведению информации по-отдельности, карточки, как правило, не
+  показываются в оптимальное время, что означает, что вы либо забываете больше
+  чем хотелось, либо занимаетесь больше, чем необходимо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Reversing the question and answer only works when you want exactly
+  the same content on each side. This means it’s not possible to
+  display extra info on the back of each card for example.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200926T161825Z" creationid="alex" creationdate="20200926T161825Z">
+        <seg>- Поменять местами вопрос и ответ можно только в том случае, если вам нужна
+  в точности одинаковая информация на обеих сторонах. Это означает, что вы не
+  можете, например, отобразить дополнительную информацию на обратной стороне
+  каждой карточки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The act of recalling something _strengthens_ the memory, increasing
+    the chances we’ll be able to remember it again.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T140706Z" creationid="alex" creationdate="20210815T140706Z">
+        <seg>- Само по себе вспоминание чего-либо, _укрепляет_ память об этом, повышая шанс
+    вспомнить это вновь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- When we're unable to answer a question, it tells us we need to
+    return to the material to review or relearn it.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T140716Z" creationid="alex" creationdate="20210815T140716Z">
+        <seg>- Когда мы не можем ответить на вопрос, это говорит нам о том, что материал
+    необходимо повторить или изучить его дополнительно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Background](background.md)
+- [Platform Notes](platform/intro.md)
+  - [Windows](platform/windows/installing.md)
+    - [Install &amp; Upgrade](platform/windows/installing.md)
+    - [Installation Issues](platform/windows/installation-issues.md)
+    - [Startup Issues](platform/windows/startup-issues.md)
+    - [Display Issues](platform/windows/display-issues.md)
+    - [Copy and Paste Issues](platform/windows/copy-and-paste.md)
+    - [Text Size](platform/windows/text-size.md)
+    - [Permission Problems](platform/windows/permission-problems.md)
+  - [macOS](platform/mac/installing.md)
+    - [Install &amp; Upgrade](platform/mac/installing.md)
+    - [Display Issues](platform/mac/display-issues.md)
+  - [Linux](platform/linux/installing.md)
+    - [Install &amp; Upgrade](platform/linux/installing.md)
+    - [Missing Libraries](platform/linux/missing-libraries.md)
+    - [Display Issues](platform/linux/display-issues.md)
+    - [Fedora/OpenSUSE Blank](platform/linux/blank-window.md)
+    - [Linux Distro Packages](platform/linux/distro-packages.md)
+    - [Incorrect GTK Theme](platform/linux/gtk-theme.md)
+    - [Wayland](platform/linux/wayland.md)
+    - [Input Methods](platform/linux/input-methods.md)
+- [Getting Started](getting-started.md)
+- [Studying](studying.md)
+- [Adding/Editing](editing.md)
+- [Card Templates](templates/intro.md)
+  - [Field Replacements](templates/fields.md)
+  - [Card Generation](templates/generation.md)
+  - [Styling &amp; HTML](templates/styling.md)
+- [Preferences](preferences.md)
+- [Deck Options](deck-options.md)
+- [Syncing with AnkiWeb](syncing.md)
+- [Profiles](profiles.md)
+- [Browsing](browsing.md)
+- [Filtered Decks](filtered-decks.md)
+- [Searching](searching.md)
+- [Importing](importing.md)
+- [Exporting](exporting.md)
+- [Managing Files](files.md)
+- [Statistics](stats.md)
+- [Media](media.md)
+- [Math &amp; Symbols](math.md)
+- [Leeches](leeches.md)
+- [Add-ons](addons.md)
+- [Miscellaneous](misc.md)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20220203T081822Z" creationid="alex" creationdate="20220203T081413Z">
+        <seg>- [Общие сведения](background.md)
+- [Примечания к платформе](platform/intro.md)
+  - [Windows](platform/windows/installing.md)
+    - [Установка и обновление](platform/windows/installing.md)
+    - [Проблемы с установкой](platform/windows/installation-issues.md)
+    - [Проблемы с запуском](platform/windows/startup-issues.md)
+    - [Проблемы с отображением](platform/windows/display-issues.md)
+    - [Проблемы с копированием и вставкой](platform/windows/copy-and-paste.md)
+    - [Размер текста](platform/windows/text-size.md)
+    - [Проблемы с разрешениями](platform/windows/permission-problems.md)
+  - [macOS](platform/mac/installing.md)
+    - [Установка и обновление](platform/mac/installing.md)
+    - [Проблемы с отображением](platform/mac/display-issues.md)
+  - [Linux](platform/linux/installing.md)
+    - [Установка и обновление](platform/linux/installing.md)
+    - [Недостающие библиотеке](platform/linux/missing-libraries.md)
+    - [Проблемы с отображением](platform/linux/display-issues.md)
+    - [Fedora/OpenSUSE пустое окно](platform/linux/blank-window.md)
+    - [Пакеты дистрибутивов Linux](platform/linux/distro-packages.md)
+    - [Неправильная тема GTK](platform/linux/gtk-theme.md)
+    - [Wayland](platform/linux/wayland.md)
+    - [Методы ввода](platform/linux/input-methods.md)
+- [Начало работы](getting-started.md)
+- [Изучение](studying.md)
+- [Добавление/изменение](editing.md)
+- [Шаблоны карточек](templates/intro.md)
+  - [Замены полей](templates/fields.md)
+  - [Генерация карточек](templates/generation.md)
+  - [Стили и HTML](templates/styling.md)
+- [Настройки](preferences.md)
+- [Настройки колоды](deck-options.md)
+- [Синхронизация с AnkiWeb](syncing.md)
+- [Профили](profiles.md)
+- [Обзор](browsing.md)
+- [Фильтрованные колоды](filtered-decks.md)
+- [Поиск](searching.md)
+- [Импортирование](importing.md)
+- [Экспортирование](exporting.md)
+- [Управление файлами](files.md)
+- [Статистика](stats.md)
+- [Медиа](media.md)
+- [Расчёт и символы](math.md)
+- [Пиявки (Leeches)](leeches.md)
+- [Дополнения (Add-ons)](addons.md)
+- [Разное](misc.md)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Bahasa Indonesia](https://apps.ankiweb.net/docs/manual.id.html)
+- [Deutsch](http://www.dennisproksch.de/anki)
+- [Español](https://apps.ankiweb.net/docs/manual.es.html)
+- [Français](https://apps.ankiweb.net/docs/manual.fr.html)
+- [Italiano](https://web.archive.org/web/20160423223801/http://192.167.9.6/Anki_ITA/Manual_ITA.htm)
+- [Polski](https://platynowy.github.io/anki-manual/)
+- [Português Brasileiro](https://mizerablebr.github.io/anki-manual/)
+- [русский язык](https://alexeygorelov.github.io/anki-manual-ru/)
+- [العربية](https://abdnh.github.io/anki-manual/)
+- [فارسى](http://ankidroid.ir/anki.pdf)
+- [日本語](http://wikiwiki.jp/rage2050/?FrontPage)
+- [简体中文](http://www.ankichina.net/manual/anki/)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T150324Z" creationid="alex" creationdate="20210815T150324Z">
+        <seg>- [Bahasa Indonesia](https://apps.ankiweb.net/docs/manual.id.html)
+- [Deutsch](http://www.dennisproksch.de/anki)
+- [Español](https://apps.ankiweb.net/docs/manual.es.html)
+- [Français](https://apps.ankiweb.net/docs/manual.fr.html)
+- [Italiano](https://web.archive.org/web/20160423223801/http://192.167.9.6/Anki_ITA/Manual_ITA.htm)
+- [Polski](https://platynowy.github.io/anki-manual/)
+- [Português Brasileiro](https://mizerablebr.github.io/anki-manual/)
+- [русский язык](https://alexeygorelov.github.io/anki-manual-ru/)
+- [العربية](https://abdnh.github.io/anki-manual/)
+- [فارسى](http://ankidroid.ir/anki.pdf)
+- [日本語](http://wikiwiki.jp/rage2050/?FrontPage)
+- [简体中文](http://www.ankichina.net/manual/anki/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Shared Decks and Review
+  Basics](http://www.youtube.com/watch?v=QS2G-k2hQyg&amp;yt:cc=on)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T074732Z" creationid="alex" creationdate="20200922T074732Z">
+        <seg>- [Общие колоды и обзор основ](http://www.youtube.com/watch?v=QS2G-k2hQyg&amp;yt:cc=on)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Styling Cards](http://www.youtube.com/watch?v=F1j1Zx0mXME&amp;yt:cc=on)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200923T075643Z" creationid="alex" creationdate="20200923T075643Z">
+        <seg>- [Оформление карточек](http://www.youtube.com/watch?v=F1j1Zx0mXME&amp;yt:cc=on)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Switching Card
+  Order](http://www.youtube.com/watch?v=DnbKwHEQ1mA&amp;yt:cc=on)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200923T075623Z" creationid="alex" creationdate="20200923T075553Z">
+        <seg>- [Переключение порядка карточек](http://www.youtube.com/watch?v=DnbKwHEQ1mA&amp;yt:cc=on)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Syncing](https://www.youtube.com/watch?v=YkiM4DPzSVc&amp;list=PLGgmaKOIHykFoomqkBJAyGiDQ2kyiuTao&amp;yt:cc=on)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200923T074744Z" creationid="alex" creationdate="20200923T074744Z">
+        <seg>- [Синхронизация](https://www.youtube.com/watch?v=YkiM4DPzSVc&amp;list=PLGgmaKOIHykFoomqkBJAyGiDQ2kyiuTao&amp;yt:cc=on)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Typing in the
+  Answer](http://www.youtube.com/watch?v=5tYObQ3ocrw&amp;yt:cc=on)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200923T075725Z" creationid="alex" creationdate="20200923T075725Z">
+        <seg>- [Вписывание ответа](http://www.youtube.com/watch?v=5tYObQ3ocrw&amp;yt:cc=on)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- brushing up on geography</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T140117Z" creationid="alex" creationdate="20210815T140117Z">
+        <seg>- освежить в памяти географию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- even practising guitar chords!</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T140138Z" creationid="alex" creationdate="20210815T140138Z">
+        <seg>- даже отработка гитарных аккордов!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- learning a language</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T140033Z" creationid="alex" creationdate="20210815T140033Z">
+        <seg>- изучение языка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- mastering long poems</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T140126Z" creationid="alex" creationdate="20210815T140126Z">
+        <seg>- заучивание длинных стихотворений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- memorizing people’s names and faces</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T140106Z" creationid="alex" creationdate="20210815T140106Z">
+        <seg>- запоминание имен и лиц людей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- studying for medical and law exams</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T140045Z" creationid="alex" creationdate="20210815T140045Z">
+        <seg>- подготовка к экзаменам по медицине и юриспруденции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1. Click the “Get Shared” button at the bottom of the deck list.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T151742Z" creationid="alex" creationdate="20210815T151742Z">
+        <seg>1. Нажмите кнопку "Скачать колоду" ниже списка колод.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2. When you’ve found a deck you’re interested in, click the “Download”
+    button to download a deck package.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T151801Z" creationid="alex" creationdate="20210815T151801Z">
+        <seg>2. Когда вы нашли интересующую вас колоду, нажмите кнопку "Скачать", чтобы
+    скачать пакет колоды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3. Double-click on the downloaded package to load it into Anki, or
+    File→Import it.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T151817Z" creationid="alex" creationdate="20210815T151817Z">
+        <seg>3. Дважды щелкните по скачанному пакету, чтобы загрузить его в Anki, или
+    импортируйте его нажав Файл→Импортировать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;!-- toc --&gt;</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T150504Z" creationid="alex" creationdate="20210815T150504Z">
+        <seg>&lt;!-- toc --&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A 'deck' is a group of cards. You can place cards in different decks to
+study parts of your card collection instead of studying everything at
+once. Each deck can have different settings, such as how many new cards
+to show each day, or how long to wait until cards are shown again.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T150814Z" creationid="alex" creationdate="20200923T063438Z">
+        <seg>'Колода' — это группа карточек. Вы можете размещать карточки в разных колодах
+для изучения отдельных частей вашей коллекции карточек, вместо того чтобы учить
+все сразу. У каждой колоды могут быть разные настройки, например, сколько новых
+карточек показывать каждый день или как долго следует ждать до следующего
+показа карточки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A good way to integrate active recall testing into your own studies is
+to use _flashcards_. With traditional paper flashcards, you write a
+question on one side of a card, and the answer on the other side. By not
+turning the card over until you've thought about the answer, you can
+learn things more effectively than passive observation allows.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T144647Z" creationid="alex" creationdate="20210815T141021Z">
+        <seg>Хорошим способом использовать активную проверку воспоминаний в своей учёбе,
+является использование _флэш-карточек_ (англ. _flashcards_) . На традиционных
+бумажных (картонных) карточках вы пишите вопрос на одной стороне, а ответ — на
+другой. Не переворачивать карточку до тех пор, пока не подумаете над ответом,
+позволяет вам запоминать более эффективно чем простое просматривание материала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A question and answer pair is called a 'card'. This is based on a paper
+flashcard with a question on one side and the answer on the back. In
+Anki a card doesn’t actually look like a physical card, and when you
+show the answer the question remains visible by default. For example, if
+you’re studying basic chemistry, you might see a question like:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T150756Z" creationid="alex" creationdate="20200923T051352Z">
+        <seg>Пара вопрос-ответ называется 'карточкой'. Это название происходит от бумажных
+флэш-карточек (англ. _flashcard_) [прим. перев. Ещё встречается перевод как
+"дидактическая карточка"] с вопросом на одной стороне и ответом на обратной.
+В Anki карточка на самом деле не выглядит как бумажная карточка и когда
+отображается ответ, то вопрос остается видимым (по умолчанию, такое поведение
+может быть изменено). Например, если вы изучаете основы химии, то можете увидеть
+такой вопрос:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add-ons use and modify arbitrary parts of Anki’s codebase, so in some
+cases, updating Anki can break the compatibility with older add-ons. If 
+one of your add-ons stops working after updating Anki, please consider
+reporting the issue to the add-on author. If you rely on this add-on,
+you will need to keep using an older Anki version until the add-on gets 
+an update.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20220202T081622Z" creationid="alex" creationdate="20220202T081622Z">
+        <seg>Дополнения используют и изменяют произвольные части кодовой базы Anki, 
+поэтому иногда обновление Anki может нарушить совместимость со старыми дополнениями.
+Если одно из ваших дополнений перестаёт работать после обновления Anki, пожалуйста,
+сообщите об этой проблеме автору дополнения. Если вам необходимо это дополнение, 
+вам нужно продолжить использование старой версии Anki до тех пор, пока дополнение не получит обновление.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After clicking on a deck to study, you’ll see a screen that shows you
+how many cards are due today. This is called the 'deck overview' screen.
+The cards are split into three types:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201010T071843Z" creationid="alex" creationdate="20201010T063611Z">
+        <seg>После нажатия на колоду для изучения, вы увидите экран на котором показано
+сколько карточек у вас запланировано на сегодня. Это называется экраном
+'обзора колоды'. Карточки разделены на три типа:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After confirming that you are correct, you can tell Anki how well you
+remembered, and Anki will choose a next time to show you again.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200923T064415Z" creationid="alex" creationdate="20200923T064415Z">
+        <seg>Убедившись в своей правоте вы можете сообщить Anki, насколько легко вам было
+вспомнить ответ, и Anki подберёт время следующего показа карточки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After thinking about it, and deciding the answer is O, you click the
+show answer button, and Anki shows you:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200923T063537Z" creationid="alex" creationdate="20200923T063537Z">
+        <seg>После обдумывания и принятия решения, что ответом является О, вы нажимаете
+кнопку показа ответа и Anki показывает вам:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200927T070956Z" creationid="alex" creationdate="20200927T070956Z">
+        <seg>И:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anki allows you to create different types of notes for different
+material. Each type of note has its own set of fields and card types.
+It’s a good idea to create a separate note type for each broad topic
+you’re studying. In the above French example, we might create a note
+type called “French” for that. If we wanted to learn capital cities, we
+could create a separate note type for that as well, with fields such as
+“Country” and “Capital City”.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201003T093124Z" creationid="alex" creationdate="20201003T090347Z">
+        <seg>Anki позволяет создавать различные типы записей для различного материала. У каждого типа записи имеется свой набор полей и типов карточек. Хорошей идеей будет создание отдельных типов записей для каждой обширной темы которую вы изучаете. Для этого, в приведённом выше французском примере, можно создать тип записи с названием "Французский". Если бы мы хотели изучать столицы, мы могли бы создать для этого отдельный тип записи, с такими полями, как "Страна" и "Столица".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anki is a program which makes remembering things easy. Because it is a
+lot more efficient than traditional study methods, you can either
+greatly decrease your time spent studying, or greatly increase the
+amount you learn.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20220202T073649Z" creationid="alex" creationdate="20200922T074033Z">
+        <seg>Anki — это программа, облегчающая процесс запоминания. Поскольку используемая
+техника намного эффективнее традиционных методов обучения, вы можете
+значительно сократить время, потраченное на заучивание материала или значительно
+увеличить объем выученного.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anki solves these problems by allowing you to split the content of your
+cards up into separate pieces of information. You can then tell Anki
+which pieces of information you want on each card, and Anki will take
+care of creating the cards for you and updating them if you make any
+edits in the future.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201002T074351Z" creationid="alex" creationdate="20200926T162818Z">
+        <seg>Anki решает эти проблемы, позволяя вам разделить содержимое ваших карточек на
+отдельные части информации. Вы можете указать Anki, какие части информации
+вы хотите на каждой из карточек и Anki позаботится о создании их для вас, а так
+же обновит их если вы сделаете какие-либо изменения в будущем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anki starts with a deck called “default”; any cards which have somehow
+become separated from other decks will go here. Anki will hide the
+default deck if it contains no cards and you have added other decks.
+Alternatively, you may rename this deck and use it for other cards.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T150833Z" creationid="alex" creationdate="20200924T193538Z">
+        <seg>Anki запускается с единственной колодой под названием "по умолчанию" (англ.
+_default_); все карточки, которые каким-то образом отделились от других колод,
+будут попадать сюда. Anki скроет колоду по умолчанию, если в ней нет карт и вы
+добавили другие колоды. Или же вы можете переименовать эту колоду и использовать
+ее для других карточек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anki will only bury siblings that are new or review cards. It will not
+hide cards in learning, as time is of the essence for those cards. On
+the other hand, when you study a learning card, any new/review siblings
+will be buried.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201101T040333Z" creationid="alex" creationdate="20201101T031925Z">
+        <seg>Anki будет откладывать связанные карточки, которые являются новыми или
+повторяемыми. Изучаемые карточки не будут скрываться, поскольку время для них
+имеет существенное значение. С другой стороны, заучивая карточку которая
+является изучаемой, любые новые/повторяемые карточки будут отложены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anki's capabilities can be extended with add-ons. Add-ons can provide
+features like extra support for specific languages, extra control over
+scheduling, and so on.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20220202T081136Z" creationid="alex" creationdate="20220202T081136Z">
+        <seg>Возможности Anki могут быть расширены использованием дополнений.
+Дополнения могут предоставлять дополнительные возможности, такие как:
+поддержка определённых языков, расширенный контроль над расписанием и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anki's spaced repetition system is based on an older version of the
+SuperMemo algorithm called [SM-2](faqs.md).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T143520Z" creationid="alex" creationdate="20210815T143520Z">
+        <seg>Система интервальных повторений Anki основана на более старой версии алгоритма
+SuperMemo, который называется [SM-2](faqs.md).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anyone who needs to remember things in their daily life can benefit from
+Anki. Since it is content-agnostic and supports images, audio, videos
+and scientific markup (via LaTeX), the possibilities are endless. For
+example:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20220202T073739Z" creationid="alex" creationdate="20200922T074044Z">
+        <seg>Любому, кому необходимо что-либо запоминать в своей повседневной жизни,
+Anki будет полезна. Так как программа не зависит от типа содержимого и
+поддерживает изображения, аудио, видео и научную разметку (посредством LaTeX),
+её возможности бесконечны. Например:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the bottom right of the review screen is a button labeled **More**.
+This button provides some other operations you can do on the current
+card or note:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201020T100115Z" creationid="alex" creationdate="20201020T095404Z">
+        <seg>В правом нижнем углу экрана просмотра находится кнопка **Ещё**. Эта кнопка
+предоставляет несколько других операций, которые можно выполнить с текущей
+карточкой или записью:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>В оригинале написано -- more details
+are available in the [templates](templates/intro.md) section, но раздела "templates" нет, он называется "Card Templates".</note>
+      <tuv lang="en-US">
+        <seg>By surrounding a field name in double curly brackets, we tell Anki to
+replace that section with the actual information in the field. Anything
+not surrounded by curly brackets remains the same on each card. (For
+instance, we don’t have to type “Page \#” into the Page field when
+adding material – it’s added automatically to every card.) &amp;lt;br&amp;gt; is
+a special code that tells Anki to move to the next line; more details
+are available in the [templates](templates/intro.md) section.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T151032Z" creationid="alex" creationdate="20201002T085219Z">
+        <seg>Заключая название поля в двойные фигурные скобки, мы указываем Anki заменять
+этот раздел фактической информацией из этого поля. Всё, что не окружено
+фигурными скобками остаётся в неизменном виде на каждой карточке. (Например, мы
+не должны вводить "Страница \#" в поле "Страница" при добавлении материала — он
+добавляется автоматически на каждую карточку.) &amp;lt;br&amp;gt; — это специальный
+код, который указывает Anki перейти к следующей строке; дополнительные сведения
+доступны в разделе [Шаблоны карточек](templates/intro.md).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating your own deck is the most effective way to learn a complex
+subject. Subjects like languages and the sciences can’t be understood
+simply by memorizing facts — they require explanation and context to
+learn effectively. Furthermore, inputting the information yourself
+forces you to decide what the key points are, leading to a better
+understanding.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T151826Z" creationid="alex" creationdate="20201007T052925Z">
+        <seg>Создание собственной колоды является наиболее эффективным способом изучения
+сложной темы. Такие предметы, как языки и науки, не могут быть поняты просто
+запоминанием фактов — они требуют объяснений и контекста, чтобы учить их
+эффективно. Более того, сама информация заставляет вас решать, каковы ключевые
+моменты, что приведет к лучшему пониманию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Decks are best used to hold broad categories of cards, rather than
+specific topics such as “food verbs” or “lesson 1”. For more info on
+this, please see the [using decks appropriately](editing.md#using-decks-appropriately) section.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200924T200857Z" creationid="alex" creationdate="20200924T195214Z">
+        <seg>Колоды больше всего подходят для объединения широких категорий карточек, а не
+для таких конкретных тем, как "пищевые глаголы" или "урок 1". Более подробную
+информацию об этом см. в разделе [правильное использование колод](editing.md#Правильное-использование-колод).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Decks can contain other decks, which allows you to organize decks into a
+tree. Anki uses “::” to show different levels. A deck called
+“Chinese::Hanzi” refers to a “Hanzi” deck, which is part of a “Chinese”
+deck. If you select “Hanzi” then only the Hanzi cards will be shown; if
+you select “Chinese” then all Chinese cards, including Hanzi cards, will
+be shown.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200923T073753Z" creationid="alex" creationdate="20200923T073753Z">
+        <seg>Колоды могут содержать другие колоды, что позволяет вам организовать их в
+древовидную структуру. В Anki используется "::" как показатель разных уровней.
+Так в названии колоды "Китайский::Ханзи" отмечается, что колода "Ханзи"
+является частью колоды "Китайский".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Different people like to review in different ways, but there are some
+general concepts to keep in mind. An excellent introduction is [this
+article](http://www.supermemo.com/articles/20rules.htm) on the SuperMemo
+site. In particular:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T155533Z" creationid="alex" creationdate="20201204T063536Z">
+        <seg>Разным людям нравится повторять по-разному,но есть некоторые общие концепции,
+о которых следует помнить. Отличное введение — [эта статья](http://www.supermemo.com/articles/20rules.htm) на сайте SuperMemo. В частности:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not learn if you do not understand.
+    --SuperMemo</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201007T055249Z" creationid="alex" creationdate="20201007T055249Z">
+        <seg>Не запоминай, если не понимаешь.
+    --SuperMemo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not use 'Tags', 'Type', 'Deck', 'Card', or 'FrontSide' as field
+names, as they are [special fields](templates/fields.md#special-fields) and will not work
+properly.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210303T063353Z" creationid="alex" creationdate="20201208T062047Z">
+        <seg>Не используйте в качестве имен полей 'Tags', 'Type', 'Deck', 'Card' или
+'FrontSide', так как это [специальные поля](templates/fields.md#Специальные-поля)
+и они не будут работать правильно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each card type has two 'templates', one for the question and one for the
+answer. In the above French example, we wanted the recognition card to
+look like this:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201002T093653Z" creationid="alex" creationdate="20200927T084223Z">
+        <seg>У каждого типа карточки есть два 'шаблона', один для вопроса и один для ответа.
+В приведённом выше французском примере мы хотели, чтобы карта распознавания
+выглядела так:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a quick way to dive into Anki, please have a look at these intro
+videos. Some were made with a previous Anki version, but the concepts
+are the same.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201007T164552Z" creationid="alex" creationdate="20201007T164552Z">
+        <seg>Для быстрого погружения в Anki, пожалуйста, посмотрите эти вступительные видео.
+Некоторые из них были сделаны в предыдущей версии программы Anki, но концепция
+осталась та же. (На английском. С русскими или англ. субтитрами)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For information on how decks affect the order cards are displayed in,
+please see the [display order](studying.md#display-order) section.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200924T200901Z" creationid="alex" creationdate="20200924T195639Z">
+        <seg>Информацию о том, как колоды влияют на порядок отображения в них карточек,
+смотрите в разделе [порядок отображения](studying.md#Порядок-отображения)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on the buttons between the note type and the
+fields, please see the [editor](editing.md) section.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201204T062447Z" creationid="alex" creationdate="20201129T044330Z">
+        <seg>Дополнительные сведения о кнопках между типом записи и полями см. в разделе
+[редактор](editing.md).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>French: Bonjour
+    English: Hello
+    Page: 12</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200927T072107Z" creationid="alex" creationdate="20200927T072107Z">
+        <seg>Французский: Bonjour
+    Русский: Здравствуйте
+    Страница: 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If YouTube is unavailable in your country, you can [download the
+videos](https://apps.ankiweb.net/downloads/archive/screencasts/2.0/)
+instead.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200923T051341Z" creationid="alex" creationdate="20200922T074753Z">
+        <seg>Если YouTube блокируется в вашей стране, вы можете [скачать эти видео](https://apps.ankiweb.net/downloads/archive/screencasts/2.0/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you are a language learner, you may be tempted to download a long
+list of words and their translations, but this won’t teach you a
+language any more than memorizing scientific equations will teach you
+astrophysics. To learn properly, you need textbooks, teachers, or
+exposure to real-world sentences.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T151843Z" creationid="alex" creationdate="20201007T055119Z">
+        <seg>Изучая язык, для вас может быть заманчивой возможность скачать длинный список
+слов и их переводов, но так вы выучите язык не лучше, чем запоминая научные
+уравнения выучите астрофизику. Чтобы учиться правильно, нужны учебники, учителя
+или практика в реальных условиях (англ. _exposure to real-world sentences_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you fall behind in your reviews, Anki will prioritize cards that have
+been waiting the longest. It does this by taking the cards that have
+been waiting the longest and showing them to you in a random order up
+until your daily review limit. This ordering ensures that no cards will
+be left waiting indefinitely, but it means that if you introduce new
+cards, their reviews won’t appear until you’ve gotten through your
+backlog.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201114T042454Z" creationid="alex" creationdate="20201106T045545Z">
+        <seg>Если вы отстали от графика повторения, Anki отдаст предпочтение карточкам,
+которые ждут дольше всех. Она выбирает карточки ожидающие дольше всех и
+показывает их в случайном порядке до тех пор, пока не будет исчерпан суточный
+лимит показов. Такой порядок гарантирует, что никакие карточки не останутся в
+состоянии вечного ожидания, однако это означает, что если вы добавите новых
+карточек, то не увидите их до тех пор, пока не наверстаете отставание.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have downloaded an add-on that is not working properly, or if you
+accidentally made a mistake when editing an add-on, you can use the
+"Delete" option in the menu to remove it.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20220202T081544Z" creationid="alex" creationdate="20220202T081544Z">
+        <seg>Если вы скачали дополнение, которое работает некорректно, или вы сделали ошибку 
+при редактировании дополнения, вы можете использовать опцию «Удалить» чтобы удалить его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you wish to change the order of the overdue reviews, you can do so by
+creating a [filtered deck](filtered-decks.md).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201114T044550Z" creationid="alex" creationdate="20201114T044044Z">
+        <seg>Если вы хотите изменить порядок просмотра просроченных карточек, вы можете это
+сделать с помощью создания [фильтрованной колоды](filtered-decks.md).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you would like to help translate the manual into a different language,
+please see the [translation docs](https://translating.ankiweb.net/anki/manual.html).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T135444Z" creationid="alex" creationdate="20210815T135444Z">
+        <seg>Если вы хотите помочь с переводом руководства на другой язык, посмотрите
+[Документацию по переводу](https://translating.ankiweb.net/anki/manual).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Imagine we want to study French vocabulary, and we want to include the
+page number on the back of each card. We want our cards to look like
+this:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200927T070916Z" creationid="alex" creationdate="20200926T162838Z">
+        <seg>Представьте, что мы хотим поучить французский словарь и добавлять номер
+страницы на обратной стороне каждой карточки. Мы хотим, чтобы наши карточки
+выглядели так:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In Anki, this related information is called a 'note', and each piece of
+information is called a 'field'. So we can say that this type of note
+has three fields: French, English, and Page.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200927T072643Z" creationid="alex" creationdate="20200927T072643Z">
+        <seg>В Anki эта связанная информация называется 'запись', а каждый фрагмент информации называется 'поле'. Так что мы можем сказать, что у этого типа записи имеется
+три поля: французский, русский и страница.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In SuperMemo's spaced repetition system, every time you answer a
+question, you tell the program how well you were able to remember it —
+whether you forgot completely, made a small mistake, remembered with
+trouble, remembered easily, etc. The program uses this feedback to
+decide the optimal time to show you the question again. Since a memory
+gets stronger each time you successfully recall it, the time between
+reviews gets bigger and bigger — so you may see a question for the first
+time, then 3 days later, 15 days later, 45 days later, and so on.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T143330Z" creationid="alex" creationdate="20210815T143330Z">
+        <seg>В системе интервальных повторений SuperMemo, каждый раз отвечая на вопрос, вы
+сообщаете программе на сколько легко удалось вспомнить ответ — забыли ли вы
+его полностью, сделали небольшую ошибку, с трудом вспомнили, вспомнили легко
+и т. д. Программа использует эти оценки чтобы определить оптимальное время для
+показа этого вопроса снова. И так как запоминание с каждым удачным
+воспоминанием становиться всё сильнее, время между показами становится всё
+дольше и дольше. Таким образом, после первого показа вы можете увидеть ту же
+карточку через 3 дня, потом через 15, 45 и т. д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In a hurry? Jump straight to [Getting Started](getting-started.md).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T074957Z" creationid="alex" creationdate="20200922T074957Z">
+        <seg>Торопитесь? Перейти сразу к [Началу работы](getting-started.md).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>И "blueprint" и "template" в принципе имеет одно и то же значение, но слова "blueprint" в программе не встречается, а "template" есть. Почему бы не употребить его вместо "blueprint". Или убрать его вообще ? Внимательнее необходимо в этом месте посмотреть.</note>
+      <tuv lang="en-US">
+        <seg>In order for Anki to create cards based on our notes, we need to give it
+a blueprint that says which fields should be displayed on the front or
+back of each card. This blueprint is called a 'card type'. Each type of
+note can have one or more card types; when you add a note, Anki will
+create one card for each card type.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T150950Z" creationid="alex" creationdate="20200927T073710Z">
+        <seg>Для того чтобы Anki создавала карточки на основе наших записей, мы должны
+предоставить ей шаблон (англ. _blueprint_) в котором указано, какие поля должны
+быть показаны на лицевой или обратной стороне каждой карточки. Этот шаблон и
+называется 'типом карточки'. Каждый тип записи может иметь одну или несколько
+типов карточек; когда вы добавляете запись, Anki создаст по одной карточке для
+каждого типа карточек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this example, we have three pieces of related information: a French
+word, an English meaning, and a page number. If we put them together,
+they’d look like this:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200927T072117Z" creationid="alex" creationdate="20200927T070923Z">
+        <seg>В этом примере у нас есть три, связанных между собой, части информации:
+французское слово, русское значение и номер страницы. Объединив их вместе, они
+будут выглядеть вот так:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most of the common operations in Anki have keyboard shortcuts. Most of
+them are discoverable in the interface: menu items list their shortcuts
+next to them, and hovering the mouse cursor over a button will generally
+show its shortcut in a tooltip.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201101T042637Z" creationid="alex" creationdate="20201101T040408Z">
+        <seg>Для большинства общих действий в Anki имеются клавиатурные сокращения. Многие
+из них легко обнаружить в элементах интерфейса: рядом с пунктами меню
+отображаются их клавиатурные сокращения, а наведение курсора мыши на кнопку, как
+правило, показывает её клавиатурное сокращение во всплывающей подсказке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most shared decks are created by people who are learning material
+outside of Anki – from textbooks, classes, TV, etc. They select the
+interesting points from what they learn and put them into Anki. They
+make no effort to add background information or explanations to the
+cards, because they already understand the material. So when someone
+else downloads their deck and tries to use it, they’ll find it very
+difficult as the background information and explanations are missing.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T151909Z" creationid="alex" creationdate="20201007T055133Z">
+        <seg>Большинство общих колод созданы людьми, которые изучат материал вне Anki — по
+учебникам, на уроках, по телевизора и т.д. Они выбирают интересные для себя
+моменты из того, что они учат, и добавляют их в Anki. Они не утруждают себя
+добавлением справочной информации или пояснений к карточкам, поскольку они уже
+понимают материал. Поэтому, когда кто-то другой скачивает их колоду и пытается
+ее использовать, для них это оказывается очень трудным поскольку отсутствует
+необходимый информационный фон и пояснения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Возможно добавить уточнение, "and Anki won’t wait until
+both queues [of current deck] are empty"</note>
+      <tuv lang="en-US">
+        <seg>New cards and reviews are fetched separately, and Anki won’t wait until
+both queues are empty before moving on to the next deck, so it’s
+possible you’ll be exposed to new cards from one deck while seeing
+reviews from another deck, or vice versa. If you don’t want this, click
+directly on the deck you want to study instead of one of the parent
+decks.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201027T062116Z" creationid="alex" creationdate="20201025T132701Z">
+        <seg>Новые и повторяемые карточки выбираются отдельно, и Anki не будет ждать, пока
+закончатся обе очереди, прежде чем перейти к следующей колоде, так что
+возможно, вам будут показываться новые карточки из одной колоды и повторяемые
+из другой, и наоборот. Если вам это не подходит, нажимайте непосредственно
+на колоду которую хотите изучать, а не на родительские колоды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notes and note types are common to your whole collection rather than
+limited to an individual deck. This means you can use many different
+types of notes in a particular deck, or have different cards generated
+from a particular note in different decks. When you add notes using the
+Add window, you can select what note type to use and what deck to use,
+and these choices are completely independent of each other. You can also
+change the note type of some notes [after you’ve already created
+them](browsing.md).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201006T064628Z" creationid="alex" creationdate="20201006T062723Z">
+        <seg>Записи и типы записей являются общими для всей коллекции, а не ограничиваются
+отдельной колодой. Это означает, что вы можете использовать несколько различных
+типов записей в определенной колоде или иметь разные карточки, сгенерированные
+на основе одной записи в разных колодах. При добавлении записей с помощью окна
+Добавить, можно выбрать какой использовать тип записи и какую колоду, и эти
+варианты полностью независимы друг от друга. Можно также изменить тип записи для
+некоторых записей [после того, как они уже были созданы](browsing.md).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once a card type has been created, every time you add a new note, a card
+will be created based on that card type. Card types make it easy to keep
+the formatting of your cards consistent and can greatly reduce the
+amount of effort involved in adding information. They also mean Anki can
+ensure related cards don’t appear too close to each other, and they
+allow you to fix a typing mistake or factual error once and have all the
+related cards updated at once.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201003T085753Z" creationid="alex" creationdate="20201002T095657Z">
+        <seg>Однажды создав тип карточки, в дальнейшем, каждый раз добавляя новую запись,
+карточка будет создаваться на основе этого типа карточки. Типы карточек
+упрощают содержание в единообразном состоянии оформления ваших карточек и могут
+значительно облегчить добавление информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One example was in 1972, when a German scientist called Sebastian Leitner
+popularized a method of spaced repetition with paper flashcards. By
+separating the paper cards into a series of boxes, and moving the
+cards to a different box on each successful or unsuccessful review, it
+was possible to see at a glance a rough estimate of how well a card was
+known and when it should be reviewed again. This was a great improvement
+over a single box of cards, and it has been widely adopted by
+computerized flashcard software. It is a rather rough approach however,
+as it cannot give you an exact date on which you should review something
+again, and it does not cope very well with material of varying
+difficulty.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20220202T074446Z" creationid="alex" creationdate="20210815T143233Z">
+        <seg>Один пример из 1972 года, когда немецкий ученый Себастьян Лейтнер
+популяризировал метод интервальных повторений в виде бумажных карточек.
+Разделяя бумажные карточки на несколько коробок в зависимости от того, удалось
+или нет вспомнить ответ, можно было сразу получить приблизительное
+представление о том, насколько хорошо была выучена карточка и когда следует
+снова пересмотреть её. Это было намного лучше, чем складывание всех карточек в
+одной коробке и в последствии такой подход стал широко использоваться в
+компьютерных программах, имитирующих работу с бумажными флеш-карточками. Однако
+это довольно грубый подход, поскольку он не может дать точной даты, когда вы
+должны пересмотреть что-то в следующий раз и не очень хорошо справляется с
+материалами различной сложности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our brains are efficient machines, and they rapidly discard information
+that doesn't seem useful. Chances are that you don't remember what you
+had for dinner on Monday two weeks ago, because this information is not
+usually useful. If you went to a fantastic restaurant that day and spent
+the last two weeks telling people about how great it was, however,
+you're likely to still remember in vivid detail.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T141402Z" creationid="alex" creationdate="20210815T141402Z">
+        <seg>Наш мозг — эффективный механизм, и он быстро отказывается от информации,
+которая не кажется ему полезной. Скорее всего, вы не вспомните, что было у вас
+на обед в понедельник две недели назад, потому что эта информация обычно
+бесполезна. А вот если в тот день вы были в фантастическом ресторане и потом
+ещё две недели рассказывали всем вокруг о том, как это было здорово, вы,
+вероятно, будете помнить всё в мельчайших подробностях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please note that it’s not currently possible to add shared decks
+directly to your AnkiWeb account. You need to import them with the
+desktop program, then synchronize to upload them to AnkiWeb.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201007T051921Z" creationid="alex" creationdate="20201007T045701Z">
+        <seg>Пожалуйста, обратите внимание, что в настоящее время нет возможности добавлять
+общие колоды непосредственно в вашу учетную запись AnkiWeb. Вы должны
+импортировать их с помощью настольной версии программы, а затем синхронизировать
+их для передачи в AnkiWeb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Q: Bonjour
+    A: Hello
+       Page #12</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200927T070952Z" creationid="alex" creationdate="20200927T070952Z">
+        <seg>В: Bonjour
+    О: Здравствуйте
+       Страница #12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Q: Chemical symbol for oxygen?</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200923T063459Z" creationid="alex" creationdate="20200923T063459Z">
+        <seg>В: Химический символ кислорода?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Q: Chemical symbol for oxygen?
+    A: O</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200923T063638Z" creationid="alex" creationdate="20200923T063638Z">
+        <seg>В: Химический символ кислорода?
+    О: О</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Q: Hello
+    A: Bonjour
+       Page #12</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200927T071024Z" creationid="alex" creationdate="20200927T071005Z">
+        <seg>В: Здравствуйте
+    О: Bonjour
+       Страница #12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Q: {{English}}
+    A: {{French}}&lt;br&gt;
+       Page #{{Page}}</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201002T100340Z" creationid="alex" creationdate="20201002T100340Z">
+        <seg>В: {{Французский}}
+    О: {{Русский}}&lt;br&gt;
+       Страница #{{Страница}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Q: {{French}}
+    A: {{English}}&lt;br&gt;
+       Page #{{Page}}</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201002T085530Z" creationid="alex" creationdate="20201002T085530Z">
+        <seg>В: {{Французский}}
+    О: {{Русский}}&lt;br&gt;
+       Страница #{{Страница}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recall from [the basics](getting-started.md) that Anki can create more than one
+card for each thing you input, such as a front→back card and a
+back→front card, or two different cloze deletions from the same text.
+These related cards are called 'siblings'.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201030T044800Z" creationid="alex" creationdate="20201030T044718Z">
+        <seg>Вспомним из [основ](getting-started.md), что Anki может создавать более одной
+карточки из каждой записи, например, карточки лицо→оборот и оборот→лицо, или
+два разных заполнения пропусков из одного текста. Такие карточки, относящиеся к
+одной записи, называются 'связанными'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Как-то название 'Добавить' и то, что добавить необходимо запись, а не карточку, не отражает производимого действия, что Anki добавляет не карточки а записи, а потом уже формирует из записей карточки.</note>
+      <tuv lang="en-US">
+        <seg>Recall from the [basics](getting-started.md) that in Anki we add notes rather than
+cards, and Anki creates cards for us. Click 'Add' in the main window,
+and the Add Notes window will appear.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200926T080039Z" creationid="alex" creationdate="20200926T072522Z">
+        <seg>Вспомним из [основ](getting-started.md), что в Anki мы добавляем записи, а не
+карточки, и уже из них Anki создаёт нам карточки. Нажав 'Добавить' в главном окне
+появится окно добавления записей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since cards in learning are somewhat time-critical, they are fetched
+from all decks at once and shown in the order they are due.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201027T062325Z" creationid="alex" creationdate="20201027T062043Z">
+        <seg>Изучаемые карточки, поскольку у них, так сказать, жесткий временной режим,
+выбираются из всех колод одновременно и отображаются в порядке своей очереди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Study in Anki is limited to the currently selected deck as well as any
+subdecks it contains.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201009T073528Z" creationid="alex" creationdate="20201009T072324Z">
+        <seg>Заучивание карточек в Anki осуществляется в пределах выбранной в настоящий
+момент колоды и любых подколод которые она содержит.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Studying will show cards from the selected deck and any decks it
+contains. Thus, if you select your “French” deck, the subdecks
+“French::Vocab” and “French::My Textbook::Lesson 1” will be shown as
+well.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201025T113845Z" creationid="alex" creationdate="20201024T064025Z">
+        <seg>В процессе изучения показываются карточки из текущей выбранной колоды и всех
+колод, которые она содержит. Таким образом, если вы выберете колоду
+"Французский", подколоды "Французский::Словарь" и "Французский::Моя тетрадь::Урок 1"
+также будут показаны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That is not to say shared decks are useless – simply that for complex
+subjects, they should be used as a 'supplement' to external material,
+not as a 'replacement' for it. If you’re studying textbook ABC and
+someone has shared a deck of ideas from ABC, that’s a great way to save
+some time. And for simple subjects that are basically a list of facts,
+such as capital city names or pub quiz trivia, you probably don’t need
+external material. But if you attempt to study complex subjects without
+external material, you will probably meet with disappointing results.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T151932Z" creationid="alex" creationdate="20201008T064725Z">
+        <seg>Это не значит, что общие колоды бесполезны — просто для сложных предметов их
+следует использовать как 'дополнение' к внешнему материалу, а не как его
+'замена'. Если вы изучаете учебник ABC, а кто-то поделится колодой с основными
+идеями из ABC — это отличный способ сэкономить немного время. И для простых
+предметов, которые по сути являются списком фактов, таких как названия столиц
+или фактов из викторин в пабе (англ. _pub quiz trivia_), вам, вероятно, не нужен
+внешний материал. Но если вы попытаетесь изучать сложные темы без внешнего
+материала, то, вероятно, вас ждет неутешительный результат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The "Study Deck" item in the Tools menu allows you to quickly switch to
+a deck with the keyboard. You can trigger it with the '/' key. When
+opened, it will display all of your decks and show a filter area at the
+top. As you type characters, Anki will display only decks matching the
+characters you type. You can add a space to separate multiple search
+terms, and Anki will show only decks that match all the terms. So “ja 1”
+or “on1 ja” would both match a deck called “Japanese::Lesson1”.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201106T045537Z" creationid="alex" creationdate="20201106T045537Z">
+        <seg>Пункт "Учить колоду" в меню Инструменты позволяет вам быстро переключиться на
+другую колоду с помощью клавиатуры. Вызвать его можно клавишей '/'. Будучи
+открытым, в нём отображаются все ваши колоды и строка фильтра сверху. По мере
+ввода символов, Anki будет отображать только те колоды которые соответствуют
+введённым вами символам. Можно добавить пробел для разделения нескольких
+условий поиска, и Anki покажет только колоды, соответствующие всем условиям.
+Так "яп 1" или "ок1 яп" в обоих случаях будут соответствовать колоде
+"Японский::Урок1".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The SuperMemo site has a lot of good information about spaced repetition
+and memory: &lt;http://www.supermemo.com/&gt;</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T075412Z" creationid="alex" creationdate="20200922T075412Z">
+        <seg>На сайте SuperMemo есть много полезной информации относительно интервальных
+повторений и памяти: &lt;http://www.supermemo.com/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The _spacing effect_ was reported by a German psychologist Hermann Ebbinghaus in 1885. He
+observed that we tend to remember things more effectively, if we spread
+reviews out over time, instead of studying multiple times in one
+session. Since the 1930s, there have been a number of proposals for
+utilizing the spacing effect to improve learning, in what has come to be
+called _spaced repetition_.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T141956Z" creationid="alex" creationdate="20210815T141956Z">
+        <seg>Об _интервальном эффекте_ впервые сообщил немецкий психолог Герман Эббингауз
+в 1885 году. Он заметил, что мы склонны к более эффективному запоминанию, если
+распределим повторения по времени вместо многократных повторений за один раз.
+С 1930-х годов было несколько предложений по использованию интервального
+эффекта для улучшения обучения в которых пришли к тому, что сейчас называется
+_интервальным повторением_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The biggest developments in the last 30 years have come from the authors
+of SuperMemo, a commercial flashcard program that implements spaced
+repetition. SuperMemo pioneered the concept of a system that keeps track
+of the ideal time to review material and optimizes itself based on the
+performance of the user.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T074402Z" creationid="alex" creationdate="20200922T074402Z">
+        <seg>Наибольший вклад, за последние 30 лет, внесли авторы SuperMemo, коммерческой
+программы для изучения флеш-карточек методом интервального повторения.
+SuperMemo впервые разработала концепцию системы, которая бы отслеживала
+идеальное время для пересмотра материала (каждой отдельной карточки) и
+подстраивалась под пользователя, основываясь на результатах его
+производительности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The brain's "use it or lose it" policy applies to everything we learn.
+If you spend an afternoon memorizing some science terms, and then don't
+think about that material for two weeks, you'll probably have forgotten
+most of it. In fact, studies show we forget about 75% of material learnt
+within a 48 hour period. This can seem pretty depressing when you need
+to learn a lot of information!</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T150056Z" creationid="alex" creationdate="20210815T141543Z">
+        <seg>Принцип "используй или потеряешь" (англ. _use it or lose it_) в мозгу
+распространяется на всё, что мы изучаем. Если вы потратили пол дня заучивая
+научные термины, а потом две недели не вспоминали об этом, вы, вероятно,
+забудете большую часть материала. Фактически, исследования показывают, что мы
+забываем примерно 75% материала, полученного в течение 48 часов. Это может
+звучать достаточно удручающе, когда вам нужно выучить много информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The easiest way to get started with Anki is to download a deck of cards
+someone has shared:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T151554Z" creationid="alex" creationdate="20201007T050725Z">
+        <seg>Самый простой способ начать заниматься с Anki — скачать колоду карточек которой
+кто-то поделился:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The only problem is that traditionally, reviewing has not been very practical. If
+you are using paper flashcards, it's easy to flick through all of them
+if you only have 30 of them to review, but as the number grows to 300 or
+3000, it quickly becomes unwieldy.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20220202T073801Z" creationid="alex" creationdate="20210815T141739Z">
+        <seg>Единственная проблема в том, что обычный просмотр был недостаточно удобным. Если
+вы используете бумажные флэш-карточки, то их легко просматривать когда их только 30,
+но когда число возрастёт до 300 или 3000, это станет практически невыполнимым.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The options at the bottom of the screen allow you to edit various
+properties of the fields to be used when adding and editing the cards.
+This is _not_ where you customize what appears on your cards when
+reviewing; for that, please see [templates](templates/intro.md).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210303T073746Z" creationid="alex" creationdate="20210303T073746Z">
+        <seg>Опции в нижней части экрана позволяют изменять различные свойства полей,
+которые будут использоваться при добавлении и редактировании карточек. Здесь
+вы _не_ настраиваете то, что появляется на карточках при повторении; для этого
+смотрите раздел [шаблоны](templates/intro.md).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Не понятно, что за "production card templates".</note>
+      <tuv lang="en-US">
+        <seg>The production card templates work in a similar way:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The solution is simple, however: _review_. By reviewing newly-learnt
+information, we can greatly reduce forgetting.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T141610Z" creationid="alex" creationdate="20210815T141610Z">
+        <seg>Решение, однако, очень простое: _повтор пройденного материала_. Пересматривая
+свеже изученный материал, мы можем значительно снизить количество забытого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are two simple concepts behind Anki: __active recall testing__ and
+__spaced repetition__. They are not known to most learners, despite having
+been written about in the scientific literature for many years.
+Understanding how they work will make you a more effective learner.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T150123Z" creationid="alex" creationdate="20210815T140420Z">
+        <seg>В основе Anki лежат два простых принципа: __активная проверка воспоминаний__
+(англ. _active recall testing_) и __интервальные повторения__ (англ. _spaced
+repetition_). Они не известны большинству учеников, несмотря на то, что в
+научной литературе о них пишется на протяжении многих лет. Понимание того, как
+они работают, позволит вам запоминать эффективнее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is a "Contact Author" button on most add-ons pages on Ankiweb, 
+and many authors include their email address in the add-on, so if you
+need to get in touch with the author, editing the add-on and looking at
+the top of the file may help.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20220202T081846Z" creationid="alex" creationdate="20220202T081846Z">
+        <seg>На большинстве страниц дополнений в Ankiweb есть кнопка «Contact Author», 
+и многие авторы включают адрес своей почты внутрь дополнения, если вам необходимо связаться с автором, 
+попробуйте открыть файл дополнения на редактирование и посмотреть в начале файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This was a revolution in learning, as it meant material could be learnt
+and retained with the absolute minimum amount of effort necessary.
+SuperMemo's slogan sums it up: with spaced repetition, you can: "forget
+about forgetting".</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T143357Z" creationid="alex" creationdate="20210815T143357Z">
+        <seg>Это было революцией в обучении, поскольку это означало, что материал мог быть
+изучен и сохранен в памяти с абсолютным минимумом усилий. Всё это объединено в
+слогане SuperMemo: с интервальными повторениями вы можете _забыть о забывании_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Здесь тоже нет такого раздела -- [Cards and Templates], а есть "Card Templates".</note>
+      <tuv lang="en-US">
+        <seg>To add and edit card types, click the “Cards…​” button while adding or
+editing notes. For more information on card types, please see the [Cards
+and Templates](templates/intro.md) section.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201003T090343Z" creationid="alex" creationdate="20201003T090213Z">
+        <seg>Для добавления и изменения типов карточек, нажмите кнопку "Карточки…​" во время добавления или изменения записи. Дополнительные сведения о типах карточек см. в разделе [Шаблоны карточек](templates/intro.md).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To add and edit fields, click the “Fields…​” button while adding or
+editing notes. For more information on fields, please see the
+[Customizing Fields](editing.md#customizing-fields) section.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200927T073704Z" creationid="alex" creationdate="20200927T072707Z">
+        <seg>Чтобы добавлять или изменять поля, нажмите кнопку "Поля…​" в процессе добавления
+или изменения записи. Дополнительные сведения о полях см. в разделе [Настройка полей](editing.md#Настройка-полей).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To add your own note types and modify existing ones, you can use Tools →
+Manage Note Types from the main Anki window.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201006T062739Z" creationid="alex" creationdate="20201006T062459Z">
+        <seg>Чтобы добавить свои типы записей и изменить существующие, можно использовать
+Инструменты → Управлять типами записей из главного окна Anki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To browse the list of available add-ons, select the Tools&gt;Add-ons
+menu item, then click on Get Add-ons.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20220202T081219Z" creationid="alex" creationdate="20220202T081219Z">
+        <seg>Чтобы посмотреть список доступных дополнений, выберите в меню Инструменты –&gt; Дополнения,
+затем нажмите на «Загрузить дополнения…» и «Посмотреть дополнения».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To control the order reviews from a given deck appear in, or change new
+cards from ordered to random order, please see the [deck
+options](deck-options.md). For more fine-grained ordering of new cards, you
+can change the order in the [browser](browsing.md).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201030T042103Z" creationid="alex" creationdate="20201027T062515Z">
+        <seg>Для управления порядком, в котором появляются карточки из определённой колоды,
+или изменения порядка показа новых карточек из упорядоченного в произвольный,
+смотрите в [настройках колоды](deck-options.md). Ещё более точно настроить
+порядок появления новых карточек можно в [обозревателе](browsing.md).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To do this, we can set the question and answer templates to:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201002T092555Z" creationid="alex" creationdate="20201002T085352Z">
+        <seg>Для этого мы можем задать шаблоны вопросов и ответов следующим образом:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To learn how to write your own add-ons, please see the [add-on writing
+guide](https://addon-docs.ankiweb.net).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20220202T081907Z" creationid="alex" creationdate="20220202T081907Z">
+        <seg>Чтобы узнать, как написать своё собственное дополнение, пожалуйста, посмотрите 
+[руководство по созданию дополнений (англ.)](https://addon-docs.ankiweb.net/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To place decks into a tree, you can either name them with “::” between
+each level, or drag and drop them from the deck list. Decks that have
+been nested under another deck (that is, that have at least one “::” in
+their names) are often called 'subdecks', and top-level decks are
+sometimes called 'superdecks' or 'parent decks'.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200924T191025Z" creationid="alex" creationdate="20200923T073810Z">
+        <seg>Чтобы собирать колоды в дерево, вы можете либо именовать их с "::" между каждым
+уровнем, либо мышкой перетаскивать и отпускать из списка колод. Колоды,
+вложенные в другие колоды (в названии которых хоть раз встречается "::") часто
+называют 'подколодами', а колоды верхнего уровня иногда называют 'суперколодами'
+или 'родительскими'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To start a study session, click the **Study Now** button. Anki will
+proceed to show you cards until the cards to be shown for the day have
+run out.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201011T075856Z" creationid="alex" creationdate="20201010T071848Z">
+        <seg>Чтобы начать сеанс заучивания, нажмите кнопку **Учить**. Anki будет показывать
+вам карточки до тех пор, пока запланированные на сегодня карточки не закончатся.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Volunteers have contributed translations of this manual. The
+translations may not always be up to date.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T075132Z" creationid="alex" creationdate="20200922T075132Z">
+        <seg>Переводы осуществляются добровольцами и не всегда могут быть в актуальном
+состоянии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When Anki checks for duplicates, it only compares other notes of the
+same type. Thus if you add a capital city called “Orange” using the
+capital city note type, you won’t see a duplicate message when it comes
+time to learn how to say “orange” in French.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201004T050939Z" creationid="alex" creationdate="20201003T093129Z">
+        <seg>Когда Anki проверяет наличие дубликатов, то сравнивает только другие заметки
+того же типа. Так, если вы добавите столицу под названием "Апельсин" используя
+тип записи столицы, то вы не увидите сообщение о дубликате, когда прийдёт время
+учить как сказать "апельсин" по-французски.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a card has been previously learnt and is ready to be reviewed
+again, there are four buttons to rate your answer:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201016T084906Z" creationid="alex" creationdate="20201016T083655Z">
+        <seg>Когда карточка уже была изучена и готова к повторению, есть четыре кнопки для
+оценки ответа:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a card is shown, only the question is shown at first. After
+thinking about the answer, either click the **Show Answer** button, or
+press the spacebar. The answer will then be shown. It’s okay if it takes
+you a little while to recall the answer, but as a general rule if you
+can’t answer within about 10 seconds, it’s probably better to give up
+and show the answer than keep struggling to remember.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T153900Z" creationid="alex" creationdate="20201011T080117Z">
+        <seg>При показе карточки, сперва показывается только вопрос. Подумав над ответом,
+нажмите либо кнопку **Показать ответ**, либо пробел на клавиатуре — будет
+показан ответ. Это нормально, если вам потребуется немного времени, чтобы
+вспомнить ответ, но, как правило, если вы не можете ответить в течение 10
+секунд, скорее всего, лучше сдаться и показать ответ, чем продолжать пытаться
+его вспомнить. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Возможно не хватает звёздочек вокруг слова **Снова**?</note>
+      <tuv lang="en-US">
+        <seg>When cards are seen for the first time, they start at step one. This
+means answering **Good** on a card for the first time will show it one
+more time in 10 minutes, and the initial 1 minute step will be skipped.
+If you push Again, though, the card will come back in 1 minute.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201016T081542Z" creationid="alex" creationdate="20201016T081542Z">
+        <seg>Когда карточки показываются в первый раз, они начинают на первом шаге. Это
+означает, что ответив **Хорошо** на карточке с первого раза покажет её ещё раз
+через 10 минут, а первый шаг в 1 минуту будет пропущен. Если вы нажмёте Снова,
+карточка вернется через 1 минуту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When making flashcards, it’s often desirable to make more than one card
+that relates to some information. For example, if you’re learning
+French, and you learn that the word “bonjour” means “hello”, you may
+wish to create one card that shows you “bonjour” and asks you to
+remember “hello”, and another card that shows you “hello” and asks you
+to remember “bonjour”. One card is testing your ability to recognize the
+foreign word, and the other card is testing your ability to produce it.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T150850Z" creationid="alex" creationdate="20200924T195644Z">
+        <seg>При создании флэш-карточек часто бывает необходимо сделать более одной
+карточки, относящихся к одной информации. Например, если вы изучаете
+французский и узнаёте, что слово "bonjour" означает "здравствуйте", то вы
+можете создать одну карточку, которая показывает вам "bonjour" и просит вас
+вспомнить "здравствуйте", а другую карточку, которая показывает вам
+"здравствуйте" и просит вас вспомнить "bonjour". Одна карточка проверяет вашу
+способность узнавать иностранное слово, а другая — умение воспроизвести его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When only the question is shown, Anki shows three numbers like 12 + 34 +
+56 at the bottom of the screen. These represent the new cards, cards in
+learning, and cards to review. If you’d prefer not to see the numbers,
+you can turn them off in Anki’s preferences.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201018T072345Z" creationid="alex" creationdate="20201018T065710Z">
+        <seg>Когда показывается только вопрос, Anki показывает в нижней части экрана три
+числа вроде 12 + 34 + 56. Они обозначают новые карточки, изучаемые карточки и
+повторяемые карточки. Если вы предпочитаете не видеть этих цифр, вы можете
+отключить их в настройках Anki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When studying, either &lt;kbd&gt;Space&lt;/kbd&gt; or &lt;kbd&gt;Enter&lt;/kbd&gt; will show the answer. When the
+answer is shown, you can use &lt;kbd&gt;Space&lt;/kbd&gt; or &lt;kbd&gt;Enter&lt;/kbd&gt; to select the Good button.
+You can use the &lt;kbd&gt;1&lt;/kbd&gt;-&lt;kbd&gt;4&lt;/kbd&gt; keys to select a specific ease button. Many people
+find it convenient to answer most cards with &lt;kbd&gt;Space&lt;/kbd&gt; and keep one finger
+on &lt;kbd&gt;1&lt;/kbd&gt; for when they forget.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210303T071954Z" creationid="alex" creationdate="20210303T071954Z">
+        <seg>Во время обучения, как &lt;kbd&gt;Пробел&lt;/kbd&gt; так и клавиша &lt;kbd&gt;Enter&lt;/kbd&gt; покажут
+ответ. Когда покажется ответ, вы можете использовать клавиши &lt;kbd&gt;Пробела&lt;/kbd&gt;
+или &lt;kbd&gt;Enter&lt;/kbd&gt; для выбора кнопки Хорошо. Для выбора конкретной кнопки
+лёгкости можно использовать клавиши &lt;kbd&gt;1&lt;/kbd&gt;–&lt;kbd&gt;4&lt;/kbd&gt;. Многим людям
+удобно отвечать на большинство карточек клавишей &lt;kbd&gt;Пробела&lt;/kbd&gt; и держать
+один палец на цифре &lt;kbd&gt;1&lt;/kbd&gt;, на случай если забыли ответ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the answer is shown, Anki shows an estimate of the next time a card
+will be shown above each button. If you’d prefer not to see the
+estimates, you can disable them in Anki’s [preferences](preferences.md).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201019T093244Z" creationid="alex" creationdate="20201019T093244Z">
+        <seg>Когда отображается ответ, Anki выводит примерное время следующего показа
+карточки над каждой кнопкой. Если вы предпочитаете не видеть оценок, вы можете
+отключить их в [настройках](preferences.md) Anki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the answer is shown, you should compare the answer you thought of
+with the answer which is shown and tell Anki how well you remembered. If
+you don’t trust yourself to compare your answer accurately, you can ask
+Anki to [prompt you to type in the answer](templates/fields.md#checking-your-answer) rather than
+just showing it to you.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201012T054640Z" creationid="alex" creationdate="20201011T090854Z">
+        <seg>Когда покажется ответ, вам следует сравнить его с тем который вы придумали и
+сообщить Anki, на сколько точно вы запомнили. Если вы не уверены в точности
+сравнения ответов, вы можете указать Anki [предлагать вам набирать ответ с клавиатуры](templates/fields.md#Проверка-своего-ответа), а не просто показывать его вам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When using paper flashcards, your only option in this case is to write
+out the information twice, once for each card. Some computer flashcard
+programs make life easier by providing a feature to flip the front and
+back sides. This is an improvement over the paper situation, but there
+are two major downsides:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T150933Z" creationid="alex" creationdate="20200925T164006Z">
+        <seg>Используя бумажные флэш-карточки, у вас только один вариант — написать всю
+информацию дважды, по одному разу на каждой карточке. Некоторые компьютерные
+программы облегчают создание флэш-карточек, предоставляя возможность
+перевернуть лицевую и оборотную стороны карточки. Эта ситуация получше, чем с
+бумажными карточками, но есть два основных недостатка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you answer a card that has siblings, Anki can prevent the card’s
+siblings from being shown in the same session by automatically 'burying'
+them. Buried cards are hidden from review until the clock rolls over to
+a new day or you manually unbury them using the “Unbury” button that’s
+visible at the bottom of the [deck overview](studying.md#study-overview) screen. Anki
+will bury siblings even if the siblings are not in the same deck (for
+instance, if you use the [deck override](templates/intro.md) feature).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201101T031918Z" creationid="alex" creationdate="20201030T044806Z">
+        <seg>Отвечая на одну из связанных карточек, Anki может предотвращать показ связанных
+с ней карточек в этот же день, автоматически 'откладывая' их. Отложенные
+карточки скрыты от повтора до тех пор, пока на часах не наступит следующий день
+или вы вручную не вернёте их при помощи кнопки "Вернуть" отображаемой внизу
+экрана [обзора колоды](studying.md#Общие-сведения-об-изучении). Anki отложит
+связанные карточки даже если они находятся в разных колодах (например, если вы
+используете функцию [подмена колоды](templates/intro.md)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you answer cards that have been waiting for a while, Anki factors
+in that delay when determining the next time a card should be shown.
+Please see the section on Anki’s spaced-repetition
+[algorithm](https://faqs.ankiweb.net/due-times-after-a-break.html) for more information.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T173358Z" creationid="alex" creationdate="20210303T072214Z">
+        <seg>Отвечая на карточки, некоторое время находившиеся в ожидании, Anki учитывает
+эту задержку при определении времени следующего показа карточки. Дополнительную
+информацию смотрите в разделе про [алгоритм](https://faqs.ankiweb.net/due-times-after-a-break.html) интервальных повторений
+Anki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Почему профиль называется коллекцией? Непонятно. Возможно заменить!? :)</note>
+      <tuv lang="en-US">
+        <seg>When you create a new collection, Anki automatically adds some standard
+note types to it. These note types are provided to make Anki easier for
+new users, but in the long run it’s recommended you define your own note
+types for the content you are learning. The standard note types are as
+follows:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T151047Z" creationid="alex" creationdate="20201004T053332Z">
+        <seg>При создании новой коллекции [прим. перев. _профиля_], Anki автоматически
+добавляет некоторые стандартные типы записей в неё. Эти типы записей
+предназначены облегчить работу с Anki для новых пользователей, но в дальнейшем
+рекомендуется определить свои собственные типы записей для того материала
+который вы изучаете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you have found a deck you like or entered some notes in, it’s time
+to start studying.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T152239Z" creationid="alex" creationdate="20201008T064935Z">
+        <seg>Когда вы нашли колоду которая вам нравится или добавили несколько записей
+самостоятельно — пора начинать обучение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While there is no denying the huge impact SuperMemo has had on the
+field, it is not without its problems. The program is often criticized
+for being buggy and difficult to navigate. It only runs on Windows
+computers. It is proprietary software, meaning that end-users cannot extend it
+or access the raw data. And while very old versions have been made available
+for free, they are quite limited for modern use.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T143418Z" creationid="alex" creationdate="20210815T143418Z">
+        <seg>Хотя и нельзя отрицать огромного влияния SuperMemo в этой области, но и она не
+лишена недостатков. Программу часто критикуют за глючность и сложность в
+навигации. Работает только на Windows. Это закрытое программное обеспечение,
+то есть конечные пользователи не могут расширять его или получать доступ к
+исходным данным. И хотя очень старые версии доступны бесплатно, они весьма
+ограничены для современного использования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the [2.1 scheduler](https://faqs.ankiweb.net/the-anki-2.1-scheduler.html),
+   however, burying cards does not reset a card's learning steps.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T161556Z" creationid="alex" creationdate="20210815T160851Z">
+        <seg>Однако с [планировщиком 2.1](https://faqs.ankiweb.net/the-anki-2.1-scheduler.html),
+   откладывание карточек не сбрасывает шаги изучения карточки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the [2.1 scheduler](https://faqs.ankiweb.net/the-anki-2.1-scheduler.html),
+   however, suspending cards does not reset a card's learning steps.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T163445Z" creationid="alex" creationdate="20210815T163445Z">
+        <seg>Однако с [планировщиком 2.1](https://faqs.ankiweb.net/the-anki-2.1-scheduler.html),
+   исключение карточек не сбрасывает шаги изучения карточки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the old scheduler, if cards were in learning when they are buried,
+   they are moved back to the new card queue or review queue prior to being
+   buried.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T160514Z" creationid="alex" creationdate="20210815T160514Z">
+        <seg>Со старым планировщиком, если карточки находятся в процессе изучения на момент
+   их откладывания, то сперва они перемещаются обратно в очередь новых карточек
+   или очередь повторяемых перед тем как быть отложенными.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can click the **Edit** button in the bottom left to edit the current
+note. When you finish editing, you’ll be returned to study. The editing
+screen works very similarly to the [add notes](editing.md) screen.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201020T093955Z" creationid="alex" creationdate="20201019T094923Z">
+        <seg>Для изменения текущей заметки нажмите кнопку **Правка** в левом нижнем углу.
+Завершив редактирование вы будете возвращены к обучению. Экран редактирования
+работает аналогично экрану [добавления записи](editing.md)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can enable burying from the [deck options](deck-options.md) screen -
+there are separate settings for new cards and reviews.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T155533Z" creationid="alex" creationdate="20201101T032453Z">
+        <seg>Вы можете включить откладывание в окне [настроек колоды](deck-options.md) —
+отдельно для новых и повторяемых карточек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can watch [a video about Shared Decks and Review
+Basics](http://www.youtube.com/watch?v=QS2G-k2hQyg&amp;yt:cc=on) on YouTube.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201007T050421Z" creationid="alex" creationdate="20201007T050421Z">
+        <seg>Вы можете посмотреть [видео про Общие колоды и Основы повторений](http://www.youtube.com/watch?v=QS2G-k2hQyg&amp;yt:cc=on) на YouTube.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have probably encountered active recall testing in your school years
+without even realizing it. When good teachers give you a series of
+questions to answer after reading an article, or make you take weekly
+progress-check tests, they are not doing it simply to see if you
+understood the material or not. By testing you, they are increasing the
+chances you will be able to remember the material in the future.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20200922T074231Z" creationid="alex" creationdate="20200922T074231Z">
+        <seg>Вы наверняка сталкивались с активной проверкой воспоминаний в школьные годы
+даже не осознавая этого. Когда учителя задавали вопросы после прочтения главы
+или давали проверочную работу, они делали это не просто, чтобы увидеть, поняли
+вы материал или нет. Проверяя вас, они увеличивали шанс, что вы вспомните это
+в будущем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your 'collection' is all the material stored in Anki – your cards,
+notes, decks, note types, deck options, and so on.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T151539Z" creationid="alex" creationdate="20201006T064551Z">
+        <seg>Ваша "коллекция" — это все материалы, хранящиеся в Анки — ваши карточки,
+записи, колоды, типы записей, настройки колод и так далее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Contributing](contrib.md)
+[FAQs](faqs.md)
+[Resources](resources.md)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20220203T081629Z" creationid="alex" creationdate="20210815T122406Z">
+        <seg>[Содействие](contrib.md)
+[ЧаВо](faqs.md)
+[Ресурсы](resources.md)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Introduction](intro.md)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T121112Z" creationid="alex" creationdate="20210815T121112Z">
+        <seg>[Введение](intro.md)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_Active recall testing_ means being asked a question and trying to
+remember the answer. This is in contrast to _passive study_, where we
+read, watch, or listen to something without pausing to consider if we
+know the answer. Research has shown that active recall testing is far
+more effective at building strong memories than passive study. There are
+two reasons for this:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20210815T140546Z" creationid="alex" creationdate="20210815T140546Z">
+        <seg>_Активная проверка воспоминаний_ подразумевает, что каждый раз, когда мы видим
+вопрос — мы стараемся вспомнить на него ответ. Это противоположно
+_пассивному обучению_, когда мы читаем, смотрим или слушаем что-то без пауз на
+обдумывание, а знаем ли мы ответ? Исследования показывают, что активная проверка
+воспоминаний намного эффективней в создании хорошей памяти у человека, чем
+пассивное обучение. И на это есть две причины:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>vocab check_with_tutor</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201129T034938Z" creationid="alex" creationdate="20201129T034938Z">
+        <seg>словарь уточнить_у_репетитора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>…​then the note you add would have two tags.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alex" changedate="20201129T035132Z" creationid="alex" creationdate="20201129T035132Z">
+        <seg>…​то у записи которую вы добавите будет две метки.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
