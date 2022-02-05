@@ -28,6 +28,16 @@
         <seg>## Переводы</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you would like to help translate the manual into a different language,
+please see the [translation docs](https://translating.ankiweb.net/anki/manual.html).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220205T140523Z" creationid="alexeygorelov" creationdate="20220205T140523Z">
+        <seg>Если вы хотите помочь перевести руководство на другой язык,
+см. [документы по переводу](https://translating.ankiweb.net/anki/manual.html).</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
