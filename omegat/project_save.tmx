@@ -1709,8 +1709,9 @@ flourishing library of add-ons contributed by end-users. It is
 multi-platform, running on Windows, macOS, Linux/FreeBSD, and some
 mobile devices. And it is considerably easier to use than SuperMemo.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alex" changedate="20220203T083456Z" creationid="alex" creationdate="20220203T082914Z">
-        <seg>Анки решает эти проблемы. Бесплатные клиенты Anki доступны на многих
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220206T090558Z" creationid="alex" creationdate="20220203T082914Z">
+        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
+Анки решает эти проблемы. Бесплатные клиенты Anki доступны на многих
 платформах, поэтому бедные студенты и преподаватели с ограниченным
 бюджетом не останутся в стороне. Anki — это програмное обеспечение с открытым исходным кодом, с процветающей библиотека дополнений, предоставленных пользователями. Она
 мультиплатформенна, работает на Windows, macOS, Linux/FreeBSD и некоторых
