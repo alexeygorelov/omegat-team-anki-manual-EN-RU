@@ -412,6 +412,14 @@ Bug
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Using Decks Appropriately</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220206T092042Z" creationid="alexeygorelov" creationdate="20220206T092042Z">
+        <seg>### Правильное использование колод</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'Active recall testing' means being asked a question and trying to
 remember the answer. This is in contrast to 'passive study', where we
 read, watch or listen to something without pausing to consider if we
