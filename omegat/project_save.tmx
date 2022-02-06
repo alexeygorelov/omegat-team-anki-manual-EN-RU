@@ -3179,10 +3179,11 @@ you are using paper flashcards, it's easy to flick through all of them
 if you only have 30 of them to review, but as the number grows to 300 or
 3000, it quickly becomes unwieldy.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alex" changedate="20220202T073801Z" creationid="alex" creationdate="20210815T141739Z">
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220206T090928Z" creationid="alex" creationdate="20210815T141739Z">
         <seg>Единственная проблема в том, что обычный просмотр был недостаточно удобным. Если
-вы используете бумажные флэш-карточки, то их легко просматривать когда их только 30,
-но когда число возрастёт до 300 или 3000, это станет практически невыполнимым.</seg>
+вы используете бумажные флэш-карточки, то их легко просматривать когда их только
+30, но когда число возрастёт до 300 или 3000, это станет практически
+невыполнимым.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3264,6 +3265,17 @@ button and then click “Add”.</seg>
         <seg>В верхней правой части окна отображается колода, в которую будут добавляться
 карточки. Если хотите добавить карточки в новую колоду, вы можете нажать на
 названии колоды и затем нажать 'Добавить'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The way Anki is installed, and the possible problems you may encounter, depend
+on the type of computer you are using.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220206T091029Z" creationid="alexeygorelov" creationdate="20220206T091029Z">
+        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
+The way Anki is installed, and the possible problems you may encounter, depend
+on the type of computer you are using.</seg>
       </tuv>
     </tu>
     <tu>
