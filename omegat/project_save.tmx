@@ -2788,6 +2788,15 @@ desktop program, then synchronize to upload them to AnkiWeb.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please see the instructions for your computer:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220206T091559Z" creationid="alexeygorelov" creationdate="20220206T091559Z">
+        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
+Please see the instructions for your computer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pull requests are welcome. Unless you state otherwise, any pull requests you
 submit will be licensed under the above license.</seg>
       </tuv>
