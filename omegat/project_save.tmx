@@ -91,6 +91,14 @@ Bug
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># Platform Notes</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220206T091222Z" creationid="alexeygorelov" creationdate="20220206T091222Z">
+        <seg># Примечания к платформе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Preferences</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="alex" changedate="20201016T084244Z" creationid="alex" creationdate="20201016T084244Z">
@@ -3272,10 +3280,9 @@ button and then click “Add”.</seg>
         <seg>The way Anki is installed, and the possible problems you may encounter, depend
 on the type of computer you are using.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220206T091029Z" creationid="alexeygorelov" creationdate="20220206T091029Z">
-        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
-The way Anki is installed, and the possible problems you may encounter, depend
-on the type of computer you are using.</seg>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220206T091336Z" creationid="alexeygorelov" creationdate="20220206T091029Z">
+        <seg>Способ установки Anki и возможные проблемы, с которыми вы можете столкнуться,
+зависят от типа используемого компьютера.</seg>
       </tuv>
     </tu>
     <tu>
