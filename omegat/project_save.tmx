@@ -3258,6 +3258,9 @@ reviewing; for that, please see [templates](templates/intro.md).</seg>
       <tuv lang="en-US">
         <seg>The production card templates work in a similar way:</seg>
       </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T082646Z">
+        <seg>Создание шаблонов карточек работает схожим образом:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
