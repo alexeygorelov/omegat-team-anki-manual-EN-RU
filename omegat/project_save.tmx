@@ -514,13 +514,12 @@ can type your answer in, after flipping to the back your input would be
 checked and compared with the answer. More information is available in the
 [Checking Your Answer](templates/fields.md#checking-your-answer) section.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T084922Z" creationid="alexeygorelov" creationdate="20220207T083441Z">
-        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
-**Основная (введите ответ)** 
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T085157Z" creationid="alexeygorelov" creationdate="20220207T083441Z">
+        <seg>**Основная (введите ответ)** 
 По сути, это Основная, с дополнительным текстовым полем на лицевой стороне, где
 вы можете ввести свой ответ, после переворачивания на оборот, введённый вами
 текст будет проверен и сравнён с ответом. Дополнительные сведения об этом
-см. в разделе [Checking Your Answer](templates/fields.md#checking-your-answer) section.</seg>
+см. в разделе [Проверка своего ответа](templates/fields.md#Проверка-своего-ответа).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1508,6 +1507,18 @@ the answer).</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="alex" changedate="20200923T075725Z" creationid="alex" creationdate="20200923T075725Z">
         <seg>- [Вписывание ответа](http://www.youtube.com/watch?v=5tYObQ3ocrw&amp;yt:cc=on)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Windows](./platform/windows/installing.md)
+- [Mac](./platform/mac/installing.md)
+- [Linux](./platform/linux/installing.md)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T085236Z" creationid="alexeygorelov" creationdate="20220207T085236Z">
+        <seg>- [Windows](./platform/windows/installing.md)
+- [Mac](./platform/mac/installing.md)
+- [Linux](./platform/linux/installing.md)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,6 +2721,21 @@ them](browsing.md).</seg>
 Добавить, можно выбрать какой использовать тип записи и какую колоду, и эти
 варианты полностью независимы друг от друга. Можно также изменить тип записи для
 некоторых записей [после того, как они уже были созданы](browsing.md).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the decks screen, your decks will be displayed in a list. There are
+three columns. 'New' is the number of new
+cards that are ready to be learnt that day. The second column shows
+the number of cards currently in learning. 'Due' is the count of waiting
+reviews.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T090319Z" creationid="alexeygorelov" creationdate="20220207T090319Z">
+        <seg>На экране колод ваши колоды представлены в виде списка. В нем присутствуют три
+числовых столбца. 'Новые' — это количество новых карточек, которые подготовлены
+к заучиванию в этот день. Вторая колонка отображает количество карточек
+изучаемых в данный момент. 'К просмотру' — это количество ожидающих повторения.</seg>
       </tuv>
     </tu>
     <tu>
