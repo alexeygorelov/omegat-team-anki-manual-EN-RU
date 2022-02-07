@@ -514,9 +514,9 @@ can type your answer in, after flipping to the back your input would be
 checked and compared with the answer. More information is available in the
 [Checking Your Answer](templates/fields.md#checking-your-answer) section.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T083441Z" creationid="alexeygorelov" creationdate="20220207T083441Z">
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T083945Z" creationid="alexeygorelov" creationdate="20220207T083441Z">
         <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
-**Basic (type in the answer)** 
+**Основная (введите ответ)** 
 This is essentially Basic, with an extra text box on the front where you
 can type your answer in, after flipping to the back your input would be
 checked and compared with the answer. More information is available in the
