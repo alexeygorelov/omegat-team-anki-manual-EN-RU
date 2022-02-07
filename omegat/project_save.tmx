@@ -260,8 +260,8 @@ Bug
       <tuv lang="en-US">
         <seg>## Learning/Relearning Cards</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T091222Z" creationid="alexeygorelov" creationdate="20220207T091222Z">
-        <seg>## Обучение/Переучивание карточек</seg>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T091449Z" creationid="alexeygorelov" creationdate="20220207T091222Z">
+        <seg>## Изучаемые/Переучиваемые карточки</seg>
       </tuv>
     </tu>
     <tu>
@@ -3735,13 +3735,12 @@ memorize them. Each time is called a 'learning step'. By default there
 are two steps: 1 minute and 10 minutes. You can change the number of
 steps and the delays between them in the [deck options](deck-options.md#new-cards).</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T090746Z" creationid="alexeygorelov" creationdate="20220207T090746Z">
-        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
-When learning new cards, or when relearning cards that you have
-forgotten, Anki will show you the cards one or more times to help you
-memorize them. Each time is called a 'learning step'. By default there
-are two steps: 1 minute and 10 minutes. You can change the number of
-steps and the delays between them in the [deck options](deck-options.md#new-cards).</seg>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T092142Z" creationid="alexeygorelov" creationdate="20220207T090746Z">
+        <seg>При изучении новых карточек или переучивании забытых, Anki будет показывать
+карточки по одному или нескольку раз, чтобы помочь вам их запомнить. Каждый
+такой показ называется 'обучающий шаг'. По умолчанию установлено два
+шага: 1 минута и 10 минут. Количество и продолжительность таких шагов можно
+изменить в [настройках колоды](deck-options.md).</seg>
       </tuv>
     </tu>
     <tu>
