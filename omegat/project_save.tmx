@@ -479,9 +479,12 @@ reviews are handled.</seg>
 Like Basic, but creates two cards for the text you enter: one from
 front→back and one from back→front.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T082906Z" creationid="alexeygorelov" creationdate="20220207T082906Z">
-        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
-**Основная (с обратной карточкой)**  
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T083254Z" creationid="alexeygorelov" creationdate="20220207T082906Z">
+        <seg>Это лицо→оборот карточка, а карточка оборот→лицо при необходимости. Для этого
+есть третье поле под названием "Добавить обратную". Если в это поле будет
+введён какой-либо текст [прим. перев. _Любой текст, чтобы эта функция
+сработала_], обратная карточка будет создана. Дополнительные сведения об этом
+см. в разделе [Шаблоны карточек](templates/intro.md)**Основная (с обратной карточкой)**  
 Как Основная, только создаёт две карточки для введённого вами текста: одну из
 лицо→оборот и одну из оборот→лицо.</seg>
       </tuv>
@@ -501,6 +504,23 @@ is available in the [Cards and Templates](templates/intro.md) section.</seg>
 введён какой-либо текст [прим. перев. _Любой текст, чтобы эта функция
 сработала_], обратная карточка будет создана. Дополнительные сведения об этом
 см. в разделе [Шаблоны карточек](templates/intro.md).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Basic (type in the answer)** 
+This is essentially Basic, with an extra text box on the front where you
+can type your answer in, after flipping to the back your input would be
+checked and compared with the answer. More information is available in the
+[Checking Your Answer](templates/fields.md#checking-your-answer) section.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T083441Z" creationid="alexeygorelov" creationdate="20220207T083441Z">
+        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
+**Basic (type in the answer)** 
+This is essentially Basic, with an extra text box on the front where you
+can type your answer in, after flipping to the back your input would be
+checked and compared with the answer. More information is available in the
+[Checking Your Answer](templates/fields.md#checking-your-answer) section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -536,6 +556,22 @@ buried.</seg>
 вернуться к ней в другой раз. Откладывание также может [произойти автоматически](studying.md#Связанные-и-отложенные) для карточек одной записи. Если карточки находятся в процессе изучения на момент их откладывания, то сперва они
 перемещаются обратно в очередь новых карточек или очередь повторяемых перед тем
 как быть отложенными.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Cloze**  
+A note type which makes it easy to select text and turn it into a cloze
+deletion (e.g., “Man landed on the moon in \[…​\]” → “Man landed on the
+moon in 1969”). More information is available in the [cloze
+deletion](editing.md#cloze-deletion) section.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T083622Z" creationid="alexeygorelov" creationdate="20220207T083622Z">
+        <seg>**Задание с пропусками**  
+Тип записи который облегчает выбор текста и превращение его в обучающие пропуски
+(англ. _cloze deletion_) (например, "Человек приземлился на Луну в \[…​\] году"
+→ "Человек приземлился на Луну в 1969 году"). Дополнительные сведения см. в
+разделе [заполнение пропусков](editing.md#Заполнение-пропусков)</seg>
       </tuv>
     </tu>
     <tu>
