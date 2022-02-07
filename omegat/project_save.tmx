@@ -258,6 +258,14 @@ Bug
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Learning/Relearning Cards</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T091222Z" creationid="alexeygorelov" creationdate="20220207T091222Z">
+        <seg>## Обучение/Переучивание карточек</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Questions</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="alex" changedate="20201011T080131Z" creationid="alex" creationdate="20201011T080131Z">
@@ -3725,6 +3733,23 @@ If you push Again, though, the card will come back in 1 minute.</seg>
 forgotten, Anki will show you the cards one or more times to help you
 memorize them. Each time is called a 'learning step'. By default there
 are two steps: 1 minute and 10 minutes. You can change the number of
+steps and the delays between them in the [deck options](deck-options.md#new-cards).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T090746Z" creationid="alexeygorelov" creationdate="20220207T090746Z">
+        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
+When learning new cards, or when relearning cards that you have
+forgotten, Anki will show you the cards one or more times to help you
+memorize them. Each time is called a 'learning step'. By default there
+are two steps: 1 minute and 10 minutes. You can change the number of
+steps and the delays between them in the [deck options](deck-options.md#new-cards).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When learning new cards, or when relearning cards that you have
+forgotten, Anki will show you the cards one or more times to help you
+memorize them. Each time is called a 'learning step'. By default there
+are two steps: 1 minute and 10 minutes. You can change the number of
 steps and the delays between them in the [deck options](deck-options.md).</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="alex" changedate="20201013T070331Z" creationid="alex" creationdate="20201012T054649Z">
@@ -4005,6 +4030,15 @@ split that information up into more fields.</seg>
 или фразой с каждой стороны, как только вы захотите добавлять больше одного
 фрагмента информации на лицевую или обратную стороны, лучше начать делить эту
 информацию на большее количество полей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While studying, you can return to the overview by pressing the &lt;kbd&gt;s&lt;/kbd&gt; key
+on your keyboard.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T090735Z" creationid="alexeygorelov" creationdate="20220207T090735Z">
+        <seg>В процессе изучения можно вернуться к обзору, нажав клавишу &lt;kbd&gt;s&lt;/kbd&gt; на клавиатуре.</seg>
       </tuv>
     </tu>
     <tu>
