@@ -475,6 +475,21 @@ reviews are handled.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Basic** 
+Has Front and Back fields, and will create one card. Text you enter in
+Front will appear on the front of the card, and text you enter in Back
+will appear on the back of the card.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T082142Z" creationid="alexeygorelov" creationdate="20220207T082142Z">
+        <seg>**Basic** 
+&lt;!-- ----------------------------------------------------------------------- --&gt;
+Has Front and Back fields, and will create one card. Text you enter in
+Front will appear on the front of the card, and text you enter in Back
+will appear on the back of the card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Bury Card / Note**: Hides a card or all of the note’s cards from review until the next day.
 (If you want to unbury cards before then, you can click the “unbury”
 button on the [deck overview](studying.md#study-overview) screen.) This is useful if
