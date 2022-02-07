@@ -3420,6 +3420,15 @@ on the type of computer you are using.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are four rating buttons when learning:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T092155Z" creationid="alexeygorelov" creationdate="20220207T092155Z">
+        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
+There are four rating buttons when learning:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are three rating buttons when learning:</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="alex" changedate="20201013T064320Z" creationid="alex" creationdate="20201013T064147Z">
