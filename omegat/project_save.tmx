@@ -475,17 +475,46 @@ reviews are handled.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Basic (and reversed card)**  
+Like Basic, but creates two cards for the text you enter: one from
+front→back and one from back→front.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T082906Z" creationid="alexeygorelov" creationdate="20220207T082906Z">
+        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
+**Основная (с обратной карточкой)**  
+Как Основная, только создаёт две карточки для введённого вами текста: одну из
+лицо→оборот и одну из оборот→лицо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Basic (optional reversed card)** 
+This is a front→back card, and optionally a back→front card. To do this,
+it has a third field called “Add Reverse.” If you enter any text into
+that field, a reverse card will be created. More information about this
+is available in the [Cards and Templates](templates/intro.md) section.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T082927Z" creationid="alexeygorelov" creationdate="20220207T082927Z">
+        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
+**Basic (optional reversed card)** 
+This is a front→back card, and optionally a back→front card. To do this,
+it has a third field called “Add Reverse.” If you enter any text into
+that field, a reverse card will be created. More information about this
+is available in the [Cards and Templates](templates/intro.md) section.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Basic** 
 Has Front and Back fields, and will create one card. Text you enter in
 Front will appear on the front of the card, and text you enter in Back
 will appear on the back of the card.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T082142Z" creationid="alexeygorelov" creationdate="20220207T082142Z">
-        <seg>**Basic** 
-&lt;!-- ----------------------------------------------------------------------- --&gt;
-Has Front and Back fields, and will create one card. Text you enter in
-Front will appear on the front of the card, and text you enter in Back
-will appear on the back of the card.</seg>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T082813Z" creationid="alexeygorelov" creationdate="20220207T082142Z">
+        <seg>**Основная** 
+Содержит поля Лицо и Оборот, и будет создавать одну карточку. Текст напечатанный
+в поле Лицо будет отображаться на лицевой стороне карточки, а текст который вы
+введёте в поле Оборот будет отображаться на обратной стороне карточки.</seg>
       </tuv>
     </tu>
     <tu>
