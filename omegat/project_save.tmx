@@ -494,13 +494,13 @@ it has a third field called “Add Reverse.” If you enter any text into
 that field, a reverse card will be created. More information about this
 is available in the [Cards and Templates](templates/intro.md) section.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T082927Z" creationid="alexeygorelov" creationdate="20220207T082927Z">
-        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
-**Basic (optional reversed card)** 
-This is a front→back card, and optionally a back→front card. To do this,
-it has a third field called “Add Reverse.” If you enter any text into
-that field, a reverse card will be created. More information about this
-is available in the [Cards and Templates](templates/intro.md) section.</seg>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T083246Z" creationid="alexeygorelov" creationdate="20220207T082927Z">
+        <seg>**Основная (обратная по выбору)** 
+Это лицо→оборот карточка, а карточка оборот→лицо при необходимости. Для этого
+есть третье поле под названием "Добавить обратную". Если в это поле будет
+введён какой-либо текст [прим. перев. _Любой текст, чтобы эта функция
+сработала_], обратная карточка будет создана. Дополнительные сведения об этом
+см. в разделе [Шаблоны карточек](templates/intro.md).</seg>
       </tuv>
     </tu>
     <tu>
