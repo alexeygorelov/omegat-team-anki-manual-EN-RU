@@ -514,13 +514,13 @@ can type your answer in, after flipping to the back your input would be
 checked and compared with the answer. More information is available in the
 [Checking Your Answer](templates/fields.md#checking-your-answer) section.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T083945Z" creationid="alexeygorelov" creationdate="20220207T083441Z">
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T084922Z" creationid="alexeygorelov" creationdate="20220207T083441Z">
         <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
 **Основная (введите ответ)** 
-This is essentially Basic, with an extra text box on the front where you
-can type your answer in, after flipping to the back your input would be
-checked and compared with the answer. More information is available in the
-[Checking Your Answer](templates/fields.md#checking-your-answer) section.</seg>
+По сути, это Основная, с дополнительным текстовым полем на лицевой стороне, где
+вы можете ввести свой ответ, после переворачивания на оборот, введённый вами
+текст будет проверен и сравнён с ответом. Дополнительные сведения об этом
+см. в разделе [Checking Your Answer](templates/fields.md#checking-your-answer) section.</seg>
       </tuv>
     </tu>
     <tu>
