@@ -2798,9 +2798,8 @@ desktop program, then synchronize to upload them to AnkiWeb.</seg>
       <tuv lang="en-US">
         <seg>Please see the instructions for your computer:</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220206T091559Z" creationid="alexeygorelov" creationdate="20220206T091559Z">
-        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
-Please see the instructions for your computer:</seg>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220207T082055Z" creationid="alexeygorelov" creationdate="20220206T091559Z">
+        <seg>Пожалуйста, смотрите инструкции для своего компьютера:</seg>
       </tuv>
     </tu>
     <tu>
