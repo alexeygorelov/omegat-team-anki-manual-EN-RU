@@ -2501,6 +2501,16 @@ force it to appear after everything else.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the v2 scheduler, the numbers count _cards_, so the number will always
+increase by one regardless of the steps remaining.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T073746Z" creationid="alexeygorelov" creationdate="20220208T073746Z">
+        <seg>В планировщике версии 2, считается количество _карточек_, так что число всегда
+увеличивается на один, независимо от оставшихся шагов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If YouTube is unavailable in your country, you can [download the
 videos](https://apps.ankiweb.net/downloads/archive/screencasts/2.0/)
 instead.</seg>
@@ -2722,6 +2732,21 @@ one when you fail a card, since that card needs to be shown several times.</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="alex" changedate="20201019T091845Z" creationid="alex" creationdate="20201018T072514Z">
         <seg>В старом планировщике, считается количество _просмотров_ необходимое для
+завершения всех карточек в этой очереди, а не количество самих _карточек_. Если
+задано несколько шагов для забытых карточек, то число увеличивается более чем
+на один, если вы не справились с карточкой, так как она должна быть показана
+несколько раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the v1 scheduler, the numbers count _reviews_ needed to finish all the
+cards in that queue, not the number of _cards_. If you have multiple
+steps configured for lapsed cards, the number will increase by more than
+one when you fail a card, since that card needs to be shown several times.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T073351Z" creationid="alexeygorelov" creationdate="20220208T073351Z">
+        <seg>В планировщике версии v1, считается количество _просмотров_ необходимое для
 завершения всех карточек в этой очереди, а не количество самих _карточек_. Если
 задано несколько шагов для забытых карточек, то число увеличивается более чем
 на один, если вы не справились с карточкой, так как она должна быть показана
@@ -3176,10 +3201,8 @@ the answer).</seg>
         <seg>See [Deck Options](deck-options.md) and the [FAQ](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html)
 to learn more about how the algorithm works.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T073021Z" creationid="alexeygorelov" creationdate="20220208T073021Z">
-        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
-Узнать больше о работе алгоритма вы можете в разделе [Deck Options](deck-options.md) and the [FAQ](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html)
-to learn more about how the algorithm works.</seg>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T073226Z" creationid="alexeygorelov" creationdate="20220208T073021Z">
+        <seg>Узнать больше о работе алгоритма вы можете в разделе [Настройки колоды](deck-options.md) и [ЧаВо](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html).</seg>
       </tuv>
     </tu>
     <tu>
