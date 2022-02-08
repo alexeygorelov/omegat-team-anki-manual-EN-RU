@@ -3173,6 +3173,17 @@ the answer).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See [Deck Options](deck-options.md) and the [FAQ](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html)
+to learn more about how the algorithm works.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T073021Z" creationid="alexeygorelov" creationdate="20220208T073021Z">
+        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
+Узнать больше о работе алгоритма вы можете в разделе [Deck Options](deck-options.md) and the [FAQ](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html)
+to learn more about how the algorithm works.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Since cards in learning are somewhat time-critical, they are fetched
 from all decks at once and shown in the order they are due.</seg>
       </tuv>
