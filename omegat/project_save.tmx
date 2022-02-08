@@ -218,6 +218,14 @@ Bug
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Fuzz Factor</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T074405Z" creationid="alexeygorelov" creationdate="20220208T074405Z">
+        <seg>## Фактор нечёткости</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Installing &amp; Upgrading</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="alex" changedate="20200922T074659Z" creationid="alex" creationdate="20200922T074659Z">
@@ -2745,8 +2753,8 @@ cards in that queue, not the number of _cards_. If you have multiple
 steps configured for lapsed cards, the number will increase by more than
 one when you fail a card, since that card needs to be shown several times.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T073351Z" creationid="alexeygorelov" creationdate="20220208T073351Z">
-        <seg>В планировщике версии v1, считается количество _просмотров_ необходимое для
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T073808Z" creationid="alexeygorelov" creationdate="20220208T073351Z">
+        <seg>В планировщике версии 1, считается количество _просмотров_ необходимое для
 завершения всех карточек в этой очереди, а не количество самих _карточек_. Если
 задано несколько шагов для забытых карточек, то число увеличивается более чем
 на один, если вы не справились с карточкой, так как она должна быть показана
@@ -4137,6 +4145,27 @@ to start studying.</seg>
       <tuv lang="ru-RU" changeid="alex" changedate="20210815T152239Z" creationid="alex" creationdate="20201008T064935Z">
         <seg>Когда вы нашли колоду которая вам нравится или добавили несколько записей
 самостоятельно — пора начинать обучение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you select an ease button on a review card, Anki also applies a small amount of random “fuzz”
+to prevent cards that were introduced at the same time and given the same ratings
+from sticking together and always coming up for review on the same day. This fuzz
+will appear on the answer buttons when the [v3 scheduler](https://faqs.ankiweb.net/the-2021-scheduler.html) is enabled, so if
+you are using a previous version and you’re noticing a slight discrepancy between
+what you select and the intervals your cards actually get, this is probably the
+cause.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T073756Z" creationid="alexeygorelov" creationdate="20220208T073756Z">
+        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
+When you select an ease button on a review card, Anki also applies a small amount of random “fuzz”
+to prevent cards that were introduced at the same time and given the same ratings
+from sticking together and always coming up for review on the same day. This fuzz
+will appear on the answer buttons when the [v3 scheduler](https://faqs.ankiweb.net/the-2021-scheduler.html) is enabled, so if
+you are using a previous version and you’re noticing a slight discrepancy between
+what you select and the intervals your cards actually get, this is probably the
+cause.</seg>
       </tuv>
     </tu>
     <tu>
