@@ -2454,6 +2454,19 @@ instead.</seg>
       <tuv lang="en-US">
         <seg>If there are no other cards to show you, Anki will show learning cards
 again even if their delay has not elapsed completely. If you’d prefer to
+wait the full learning delay, you can change this behaviour in 
+[Preferences&gt;Scheduling&gt;Learn Ahead Limit](preferences.md).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T071635Z" creationid="alexeygorelov" creationdate="20220208T071635Z">
+        <seg>Если нет других карточек для показа, Anki снова покажет изучаемые карточки,
+даже если их задержка полностью не закончилась. Если вы предпочитаете ждать
+всю обучающую задержку, вы можете изменить поведение в [Настройки&gt;Расписание&gt;Лимит опережения](preferences.md).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If there are no other cards to show you, Anki will show learning cards
+again even if their delay has not elapsed completely. If you’d prefer to
 wait the full learning delay, you can change this behaviour in the
 [preferences](preferences.md).</seg>
       </tuv>
