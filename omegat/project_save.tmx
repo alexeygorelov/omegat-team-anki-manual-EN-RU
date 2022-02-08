@@ -739,6 +739,22 @@ card will be shown again the next day, then at increasingly long delays
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>**Good** tells Anki that the last delay was about right, and the card
+easiness doesn’t need to be adjusted down or up. At the [default starting
+easiness](deck-options.md#starting-ease), the card will be shown again approximately 2 1/2 times longer
+than the previous time, so if you had waited 10 days to see the card
+previously, the next delay would be about 25 days.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T072301Z" creationid="alexeygorelov" creationdate="20220208T072301Z">
+        <seg>**Хорошо** — сообщает Anki, что последняя задержка была примерно правильной и
+лёгкость карточки не нуждается в уменьшении или увеличении. При [значении
+лёгкости по умолчанию](deck-options.md#starting-ease), задержка перед следующим показом карточки будет примерно
+в 2,5 раза дольше чем в предыдущий раз, так что если бы вы в прошлый раз ждали
+10 дней, чтобы увидеть карточку, то следующая задержка составит около 25 дней.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"а лёгкость" или "и лёгкость" - смысл довольно сильно меняется.</note>
       <tuv lang="en-US">
         <seg>**Good** tells Anki that the last delay was about right, and the card
