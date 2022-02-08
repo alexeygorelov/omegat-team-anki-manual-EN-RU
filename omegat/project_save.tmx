@@ -282,6 +282,14 @@ Bug
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Review Cards</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T071744Z" creationid="alexeygorelov" creationdate="20220208T071744Z">
+        <seg>## Повторяемые карточки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Reviewing</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="alex" changedate="20201016T084440Z" creationid="alex" creationdate="20201016T084440Z">
@@ -755,6 +763,16 @@ of Again and Good on the first step.</seg>
       <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T065549Z" creationid="alexeygorelov" creationdate="20220208T065241Z">
         <seg>**Трудно** — повторяет текущий шаг после первого шага и является средним между
 Хорошо и Легко на первом шаге.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Hard** by default, shows the card at a [slightly longer delay](deck-options.md#hard-interval) 
+than last time, and tells Anki to show the card more frequently in the future.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T072016Z" creationid="alexeygorelov" creationdate="20220208T071736Z">
+        <seg>**Трудно** — по умолчанию, показывает карточку с [чуть большей задержкой](deck-options.md#hard-interval),
+чем в прошлый раз и указывает Anki чаще показывать карточку в будущем.</seg>
       </tuv>
     </tu>
     <tu>
