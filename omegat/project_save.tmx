@@ -4262,6 +4262,16 @@ button, where 1 is **Again**. Pressing the spacebar will select
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can use the &lt;kbd&gt;1&lt;/kbd&gt;, &lt;kbd&gt;2&lt;/kbd&gt;, &lt;kbd&gt;3&lt;/kbd&gt; and &lt;kbd&gt;4&lt;/kbd&gt; keys on your keyboard to select a particular
+button, where &lt;kbd&gt;1&lt;/kbd&gt; is **Again**. Pressing &lt;kbd&gt;Space&lt;/kbd&gt; or &lt;kbd&gt;Enter&lt;/kbd&gt; will select
+**Good**.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T071208Z" creationid="alexeygorelov" creationdate="20220208T071208Z">
+        <seg>Вы можете использовать клавиши &lt;kbd&gt;1&lt;/kbd&gt;, &lt;kbd&gt;2&lt;/kbd&gt;, &lt;kbd&gt;3&lt;/kbd&gt; и &lt;kbd&gt;4&lt;/kbd&gt; на клавиатуре, для выбора конкретной кнопки, где &lt;kbd&gt;1&lt;/kbd&gt; — это **Снова**. Нажатие клавиши &lt;kbd&gt;Space&lt;/kbd&gt; или &lt;kbd&gt;Enter&lt;/kbd&gt; выбирает **Хорошо**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can watch [a video about Shared Decks and Review
 Basics](http://www.youtube.com/watch?v=QS2G-k2hQyg&amp;yt:cc=on) on YouTube.</seg>
       </tuv>
