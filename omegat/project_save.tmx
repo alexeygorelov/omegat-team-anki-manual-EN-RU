@@ -679,6 +679,22 @@ up a word when you get home.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>**Good** moves the card to the [next step](deck-options.md#learning-steps). If the card was on the final
+step, the card is converted into a review card (it 'graduates'). By
+default, once the card has reached the end of the learning steps, the
+card will be shown again the next day, then at increasingly long delays
+(see the next section).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T065843Z" creationid="alexeygorelov" creationdate="20220208T065529Z">
+        <seg>**Хорошо** — перемещает карточку на [следующий шаг](deck-options.md#learning-steps). Если карточка была на
+последнем шаге, то она переводится [прим. перев. _из изучаемой_] в повторяемую
+карточку (она 'выпускник' (англ. _graduate_)). По умолчанию, карточка достигнув
+конца обучающих шагов, будет показана снова на следующий день, затем задержки
+между показами будут увеличиваться (смотрите следующий раздел).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Добавить бы, что карточка переводится в "повторяемую" из "изучаемой".
 Да и "graduates" как-то немного сбивает с толку.</note>
       <tuv lang="en-US">
@@ -718,8 +734,8 @@ previously, the next delay would be about 25 days.</seg>
         <seg>**Hard**  repeats the current step after the first step, and is the average 
 of Again and Good on the first step.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T065446Z" creationid="alexeygorelov" creationdate="20220208T065241Z">
-        <seg>**Трудно**  повторяет текущий шаг после первого шага и является средним между
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T065549Z" creationid="alexeygorelov" creationdate="20220208T065241Z">
+        <seg>**Трудно** — повторяет текущий шаг после первого шага и является средним между
 Хорошо и Легко на первом шаге.</seg>
       </tuv>
     </tu>
