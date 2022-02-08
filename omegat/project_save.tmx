@@ -652,6 +652,22 @@ when cards are in relearning, the "Easy" button boosts the interval by 1 day.</s
     <tu>
       <tuv lang="en-US">
         <seg>**Easy** tells Anki you found the delay too short. The card will be
+scheduled [further into the future than 'Good'](deck-options.md#easy-bonus), and Anki will schedule
+the card less frequently in the future. Because 'Easy' rapidly increases
+the delay, it’s best used for only the easiest of cards. Usually you
+should find yourself answering 'Good' instead.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T072435Z" creationid="alexeygorelov" creationdate="20220208T072435Z">
+        <seg>**Легко** — сообщает Anki, что вы сочли задержку слишком короткой. Карточка
+будет запланирована [дальше, чем при ответе 'Хорошо'](deck-options.md#easy-bonus) и в последствии Anki будет
+включать её в расписание чуть реже. Поскольку 'Легко' быстро увеличивает
+задержку, она лучше всего подходит для, действительно, самых простых карточек.
+Обычно вместо этого ответа, стоит использовать ответ 'Хорошо'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Easy** tells Anki you found the delay too short. The card will be
 scheduled further into the future than 'Good', and Anki will schedule
 the card less frequently in the future. Because 'Easy' rapidly increases
 the delay, it’s best used for only the easiest of cards. Usually you
@@ -2113,6 +2129,15 @@ answer. Pressing the spacebar will select 'Good'.</seg>
       <tuv lang="ru-RU" changeid="alex" changedate="20201018T065703Z" creationid="alex" creationdate="20201018T065703Z">
         <seg>Как и с изучаемыми карточками, вы можете использовать клавиши 1-4 на клавиатуре
 для выбора ответа. Нажатие клавиши пробела выбирает **Хорошо**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As with learning cards, you can use &lt;kbd&gt;1&lt;/kbd&gt;, &lt;kbd&gt;2&lt;/kbd&gt;, &lt;kbd&gt;3&lt;/kbd&gt; and &lt;kbd&gt;4&lt;/kbd&gt; on the keyboard to select an
+answer. Pressing the &lt;kbd&gt;spacebar&lt;/kbd&gt; or &lt;kbd&gt;Enter&lt;/kbd&gt; will select **Good**.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T072749Z" creationid="alexeygorelov" creationdate="20220208T072749Z">
+        <seg>Как и с изучаемыми карточками, вы можете использовать клавиши &lt;kbd&gt;1&lt;/kbd&gt;, &lt;kbd&gt;2&lt;/kbd&gt;, &lt;kbd&gt;3&lt;/kbd&gt; и &lt;kbd&gt;4&lt;/kbd&gt; на клавиатуре, для выбора ответа. Нажатие клавиши &lt;kbd&gt;Space&lt;/kbd&gt; или &lt;kbd&gt;Enter&lt;/kbd&gt; выбирает **Хорошо**.</seg>
       </tuv>
     </tu>
     <tu>
