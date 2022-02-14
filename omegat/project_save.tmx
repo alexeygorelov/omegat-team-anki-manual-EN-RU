@@ -4157,15 +4157,15 @@ you are using a previous version and you’re noticing a slight discrepancy betw
 what you select and the intervals your cards actually get, this is probably the
 cause.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220208T073756Z" creationid="alexeygorelov" creationdate="20220208T073756Z">
-        <seg>&lt;!-- ----------------------------------------------------------------------- --&gt;
-When you select an ease button on a review card, Anki also applies a small amount of random “fuzz”
-to prevent cards that were introduced at the same time and given the same ratings
-from sticking together and always coming up for review on the same day. This fuzz
-will appear on the answer buttons when the [v3 scheduler](https://faqs.ankiweb.net/the-2021-scheduler.html) is enabled, so if
-you are using a previous version and you’re noticing a slight discrepancy between
-what you select and the intervals your cards actually get, this is probably the
-cause.</seg>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220214T075806Z" creationid="alexeygorelov" creationdate="20220208T073756Z">
+        <seg>Когда вы выбираете кнопку сложности на повторяемой карточке, Anki также
+применяет небольшое количество случайной "нечёткости" чтобы карточки, которые
+были показаны в одно и то же время и получившие одинаковый рейтинг не держались
+постоянно вместе и всегда появлялись для повторения в один и тот же день. Эта
+нечёткость в кнопках ответа появляется, когда включён [планировщик версии 3](https://faqs.ankiweb.net/the-2021-scheduler.html),
+поэтому, если вы используете предудущую версию и замечаете некоторое
+несоответствие между тем, что вы выбираете, и теми интервалами, которые на самом
+деле получают ваши карточки, причина, вероятно в этом.</seg>
       </tuv>
     </tu>
     <tu>
