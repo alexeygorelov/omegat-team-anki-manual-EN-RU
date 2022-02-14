@@ -2774,6 +2774,18 @@ they’d look like this:</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Learning cards are also given up to 5 minutes of extra delay so that they 
+don’t always appear in the same order, but answer buttons won't reflect that. It 
+is not possible to turn this feature off.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220214T080606Z" creationid="alexeygorelov" creationdate="20220214T080606Z">
+        <seg>Изучаемым карточкам также даётся дополнительная задержка в 5 минут, чтобы они
+не всегда появляются в одном и том же порядке, но на кнопках ответа это никак не
+сказывается. Отключить эту функцию невозможно.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>marked метка, в смысле тэг и метки в смысле маркера флагов, что-то каша какая-то.</note>
       <tuv lang="en-US">
         <seg>Mark Note  
