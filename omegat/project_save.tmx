@@ -1284,6 +1284,16 @@ the answer).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- With the v1 scheduler, when a deck has subdecks, the cards will appear from [each deck in
+turn](studying.md#display-order).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T111312Z" creationid="alexeygorelov" creationdate="20220217T111312Z">
+        <seg>- С планировщиком версии 1, когда в колоде есть подколоды, карточки будут
+появляться из [каждой колоды по очереди](studying.md#display-order).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [**Flag Card**](editing.md#using-flags): Adds a colored marker to the card, or toggles it off. Flags will appear during
 study, and you can search for flagged cards in the Browse screen. This is useful
 when you want to take some action on the card at a later date, such as looking
@@ -3625,9 +3635,8 @@ button and then click “Add”.</seg>
       <tuv lang="en-US">
         <seg>The way Anki fetches cards from the decks depends on the algorithm used:</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T110917Z" creationid="alexeygorelov" creationdate="20220217T110917Z">
-        <seg>&lt;!-- -------------------------For Line Breaks------------------------------ --&gt;
-То как Anki выбирает карточки из колод</seg>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T111056Z" creationid="alexeygorelov" creationdate="20220217T110917Z">
+        <seg>То как Anki выбирает карточки из колод, зависит от используемого алгоритма:</seg>
       </tuv>
     </tu>
     <tu>
