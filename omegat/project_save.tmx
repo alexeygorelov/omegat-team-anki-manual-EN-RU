@@ -1284,6 +1284,30 @@ the answer).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- With the [v2 scheduler](https://faqs.ankiweb.net/the-anki-2.1-scheduler.html),
+when a deck has subdecks, reviews are taken from all children decks
+at once. The review limit of the child decks is ignored - only the limit of the
+deck you clicked on applies.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T111541Z" creationid="alexeygorelov" creationdate="20220217T111541Z">
+        <seg>- С [планировщиком версии 2](https://faqs.ankiweb.net/the-anki-2.1-scheduler.html), когда в колоде есть подколоды, карточки для повтора
+берутся сразу со всех дочерних колод. Лимит показов дочерних колод
+игнорируется — применяется только лимит колоды, на которую вы щелкнули.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- With the [v3 scheduler](https://faqs.ankiweb.net/the-2021-scheduler.html)
+each child deck's limit is also enforced, and you do not need to see the cards 
+in deck order either. See the [deck options](deck-options.md#review-sort-order) section of the manual for more information.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T113041Z" creationid="alexeygorelov" creationdate="20220217T113041Z">
+        <seg>- С [планировщиком версии 3](https://faqs.ankiweb.net/the-2021-scheduler.html) лимит каждой подколоды также учитывается и вам не
+прийдётся просматривать карточки в том порядке, в котором идут колоды. Дополнительную информацию смотрите в разделе руководства [Настройки колод](deck-options.md#review-sort-order).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- With the v1 scheduler, when a deck has subdecks, the cards will appear from [each deck in
 turn](studying.md#display-order).</seg>
       </tuv>
