@@ -1196,6 +1196,14 @@ the answer).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- **Set Due Date**: Put cards in the review queue, and [make them due on a certain date.](browsing.md#cards)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T104828Z" creationid="alexeygorelov" creationdate="20220217T104828Z">
+        <seg>- **Задать срок**: Put cards in the review queue, and [make them due on a certain date.](browsing.md#cards)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- **Suspend Card / Note**: Hides a card or all of the note’s cards from review until they are
    manually unsuspended (by clicking the suspend button in the browser).
    This is useful if you want to avoid reviewing the note for some time,
