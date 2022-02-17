@@ -3623,6 +3623,15 @@ button and then click “Add”.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The way Anki fetches cards from the decks depends on the algorithm used:</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T110917Z" creationid="alexeygorelov" creationdate="20220217T110917Z">
+        <seg>&lt;!-- -------------------------For Line Breaks------------------------------ --&gt;
+То как Anki выбирает карточки из колод</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The way Anki is installed, and the possible problems you may encounter, depend
 on the type of computer you are using.</seg>
       </tuv>
