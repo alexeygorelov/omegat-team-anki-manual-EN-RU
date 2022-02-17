@@ -24,3 +24,5 @@ translations may not always be up to date.
 
 If you would like to help translate the manual into a different language,
 please see the [translation docs](https://translating.ankiweb.net/anki/manual.html).
+
+<!-- -------------------------For Line Breaks------------------------------ -->
