@@ -2353,17 +2353,17 @@ and “\~” comes after them. So you could call the deck “-Vocab” to make
 them appear first, and you could call the other deck “\~My Textbook” to
 force it to appear after everything else.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T113050Z" creationid="alexeygorelov" creationdate="20220217T113050Z">
-        <seg>&lt;!-- -------------------------For Line Breaks------------------------------ --&gt;
-By default, for new cards, Anki fetches cards from the decks in
-alphabetical order. So in the above example, you would get cards first
-from “French”, then “My Textbook”, and finally “Vocab”. You can use this
-to control the order cards appear in, placing high priority cards in
-decks that appear higher in the list. When computers sort text
-alphabetically, the “-” character comes before alphabetical characters,
-and “\~” comes after them. So you could call the deck “-Vocab” to make
-them appear first, and you could call the other deck “\~My Textbook” to
-force it to appear after everything else.</seg>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T115918Z" creationid="alexeygorelov" creationdate="20220217T113050Z">
+        <seg>По умолчанию новые карточки Anki выбирает из расположенных в алфавитном
+порядке колод. Так в приведенном выше примере, сначала вы увидите карточки
+из колоды "Моя тетрадь", затем "Словарь", и, наконец "Французский". Это можно
+использовать для управления порядком отображения карточек, помещая карточки с
+большим приоритетом в колоды, находящиеся выше по списку. При компьютерной
+сортировке текста по алфавиту, символ "-" идёт перед буквами алфавита, а "\~"
+— после них [прим. перев. *но перед русскими. В русских (кириллических)
+названиях колод вместо "\~" можно использовать знак "№"*]. Значит, вы можете
+назвать колоду "-Французский", чтобы она отображалась первой, а другую —
+"№Словарь", чтобы отображать её после всего остального.</seg>
       </tuv>
     </tu>
     <tu>
