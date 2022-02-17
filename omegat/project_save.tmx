@@ -1301,6 +1301,21 @@ from the [browser](browsing.md).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [**Mark Note**](editing.md#the-marked-tag): Adds a “marked” tag to the current note, so it can be easily found in the
+browser. This is similar to flagging individual cards, but works with a tag
+instead, so if the note has multiple cards, all cards will appear in a search
+for the marked tag. Most users will want to use flags instead.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T110757Z" creationid="alexeygorelov" creationdate="20220217T110757Z">
+        <seg>- [**Отметить запись**](editing.md#the-marked-tag): Добавляет текущей записи метку "marked", что позволяет
+легко найти её в обозревателе. Это схоже с отметкой отдельных карточек, только
+работает с метками (англ. _tag_), поэтому, если в записи есть несколько
+карточек, все они появятся в поиске по метке marked. Большинству пользователей
+лучше использовать флаги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Background](background.md)
 - [Getting Started](getting-started.md)
 - [Studying](studying.md)
