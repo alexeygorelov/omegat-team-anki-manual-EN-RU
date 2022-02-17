@@ -199,6 +199,9 @@ Bug
       <tuv lang="en-US">
         <seg>## Due Counts</seg>
       </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T104959Z">
+        <seg>## Подсчёт очереди</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
