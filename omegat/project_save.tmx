@@ -2979,8 +2979,11 @@ decks.</seg>
 buried card will unbury it. Burying a suspended card does not work on Anki
 2.1.49+, whereas on earlier versions, it will unsuspend the card.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T121354Z" creationid="alexeygorelov" creationdate="20220217T120054Z">
-        <seg>Примечание: Карточка не может быть одновременно отложена и исключена. Исключение отложенной карточки вернёт её из отложенных. Откладывание исключённой карточки ни работает в Anki 2.1.49+, тогда как в более ранних версиях он включает карту.</seg>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T121435Z" creationid="alexeygorelov" creationdate="20220217T120054Z">
+        <seg>Примечание: Карточка не может быть одновременно отложена и исключена.
+Исключение отложенной карточки вернёт её из отложенных. Откладывание
+исключённой карточки ни работает в Anki 2.1.49+, тогда как в более ранних
+версиях он включает карту.</seg>
       </tuv>
     </tu>
     <tu>
