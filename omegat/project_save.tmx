@@ -2342,6 +2342,31 @@ buried.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>By default, for new cards, Anki fetches cards from the decks in
+alphabetical order. So in the above example, you would get cards first
+from “French”, then “My Textbook”, and finally “Vocab”. You can use this
+to control the order cards appear in, placing high priority cards in
+decks that appear higher in the list. When computers sort text
+alphabetically, the “-” character comes before alphabetical characters,
+and “\~” comes after them. So you could call the deck “-Vocab” to make
+them appear first, and you could call the other deck “\~My Textbook” to
+force it to appear after everything else.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T113050Z" creationid="alexeygorelov" creationdate="20220217T113050Z">
+        <seg>&lt;!-- -------------------------For Line Breaks------------------------------ --&gt;
+By default, for new cards, Anki fetches cards from the decks in
+alphabetical order. So in the above example, you would get cards first
+from “French”, then “My Textbook”, and finally “Vocab”. You can use this
+to control the order cards appear in, placing high priority cards in
+decks that appear higher in the list. When computers sort text
+alphabetically, the “-” character comes before alphabetical characters,
+and “\~” comes after them. So you could call the deck “-Vocab” to make
+them appear first, and you could call the other deck “\~My Textbook” to
+force it to appear after everything else.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>В оригинале написано -- more details
 are available in the [templates](templates/intro.md) section, но раздела "templates" нет, он называется "Card Templates".</note>
       <tuv lang="en-US">
