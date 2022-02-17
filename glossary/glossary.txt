@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 learning step	интервал изучения	У Дмитрия Михеева  -- "шаг"
 Reviewing	Повторение
 To Review	Повторяемые
@@ -6,3 +7,6 @@ note	запись
 Bury	отложить
 options	настройки
 studying	изучение
+unbury	вернуть
+suspend	исключить
+unsuspend	включить	unsuspend
