@@ -1201,8 +1201,8 @@ the answer).</seg>
       <tuv lang="en-US">
         <seg>- **Set Due Date**: Put cards in the review queue, and [make them due on a certain date.](browsing.md#cards)</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T104828Z" creationid="alexeygorelov" creationdate="20220217T104828Z">
-        <seg>- **Задать срок**: Put cards in the review queue, and [make them due on a certain date.](browsing.md#cards)</seg>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220217T110336Z" creationid="alexeygorelov" creationdate="20220217T104828Z">
+        <seg>- **Задать срок**: Помещает карточки в очередь повторений, и [откладывает их срок выполнения до определённой даты.](browsing.md#cards)</seg>
       </tuv>
     </tu>
     <tu>
