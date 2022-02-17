@@ -9,4 +9,4 @@ options	настройки
 studying	изучение
 unbury	вернуть
 suspend	исключить
-unsuspend	включить	unsuspend
+unsuspend	включить
