@@ -2160,6 +2160,24 @@ could create a separate note type for that as well, with fields such as
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Anki checks the first field for uniqueness, so it will warn you if you
+enter two cards with a Front field of "apple" (for example). The
+uniqueness check is limited to the current note type, so if you're
+studying multiple languages, two cards with the same Front would not be
+listed as duplicates as long as you had a different note type for each
+language.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T102803Z" creationid="alexeygorelov" creationdate="20220218T102803Z">
+        <seg>Anki проверяет первое поле на уникальность, поэтому предупредит, если вы
+внесёте две карточки в Лицевом поле которых будут одинаковые данные, например,
+"яблоко". Проверка уникальности ограничивается текущим типом записи, так, если
+вы изучаете несколько языков, две карточки с одинаковой Лицевой стороной не
+будут отображаться как повторы, пока у вас будут разные типы записей для
+каждого языка.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>if you enter или if you try to enter?</note>
       <tuv lang="en-US">
         <seg>Anki checks the first field for uniqueness, so it will warn you if you
