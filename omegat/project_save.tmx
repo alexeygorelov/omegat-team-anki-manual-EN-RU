@@ -388,6 +388,14 @@ Bug
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>###  Effective Learning</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T122241Z" creationid="alexeygorelov" creationdate="20220218T122241Z">
+        <seg>###  Эффективное обучение</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Выбор "Типа карточек" из меню добавления "записи" находится "в кнопке" под названием "Карточки...", хотя как по мне правильнее было бы назвать её "шаблоны" т. к. "карточек" как таковых здесь нет, а только "записи", "типы", "шаблоны", "поля" по которым уже позднее будут созданы "карточки".</note>
       <tuv lang="en-US">
         <seg>### Card Types</seg>
@@ -1078,6 +1086,26 @@ cards of the same note.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- **Don't memorize without understanding**: If you are studying a
+  language, try to avoid large lists of words. The best way to learn
+  languages is in context, which means seeing those words used in a
+  sentence. Likewise, imagine you're studying a computer course. If
+  you attempt to memorize the mountain of acronyms, you'll find it
+  very difficult to make progress. But if you take the time to
+  understand the concepts behind the acronyms, learning the acronyms
+  will become a lot easier.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T122427Z" creationid="alexeygorelov" creationdate="20220218T122427Z">
+        <seg>- **Не запоминай без понимания**: Если вы изучаете язык, старайтесь избегать
+  больших списков слов. Лучше всего изучать языки в контексте, что означает
+  видеть использование этих слов в предложении. Так же представьте, что вы
+  изучаете компьютерный курс. Пытаясь запомнить горы сокращений, вам будет очень
+  трудно добиться прогресса. Но уделив время на понимание ключевых принципов,
+  стоящих за этими сокращениями намного упростит их изучение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- **Don’t memorize without understanding**: If you’re studying a
   language, try to avoid large lists of words. The best way to learn
   languages is in context, which means seeing those words used in a
@@ -1109,6 +1137,18 @@ up a word when you get home.</seg>
 отмеченных карточек. Это полезно, когда вы хотите выполнить некоторое действие
 над карточкой позднее, например, когда вернётесь домой, поискать какое-нибудь
 слово.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Keep it simple**: The shorter your cards, the easier they are to
+  review. You may be tempted to include lots of information "just in
+  case," but reviews will quickly become painful.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T122343Z" creationid="alexeygorelov" creationdate="20220218T122343Z">
+        <seg>- **Будь проще**: Чем короче карточки, тем легче их повторять. У вас может
+  возникнуть соблазн включить много информации "на всякий случай", но повторения
+  станут мучительными очень быстро.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2206,6 +2246,18 @@ language.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Anki does not check for duplicates in other fields automatically for
+efficiency reasons, but the browser has a "Find Duplicates" function,
+which you can run periodically.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T122204Z" creationid="alexeygorelov" creationdate="20220218T122204Z">
+        <seg>Anki не проверяет на повторы другие поля автоматически из соображений
+эффективности, но в обозревателе есть функция "Найти повторы", которую можно
+запускать периодически.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anki doesn’t check for duplicates in other fields automatically for
 efficiency reasons, but the browser has a “Find Duplicates” function
 which you can run periodically.</seg>
@@ -2619,8 +2671,8 @@ general concepts to keep in mind. An excellent introduction is [this
 article](http://www.supermemo.com/articles/20rules.htm) on the SuperMemo
 site. In particular:</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="alex" changedate="20210815T155533Z" creationid="alex" creationdate="20201204T063536Z">
-        <seg>Разным людям нравится повторять по-разному,но есть некоторые общие концепции,
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T122303Z" creationid="alex" creationdate="20201204T063536Z">
+        <seg>Разным людям нравится повторять по-разному, но есть некоторые общие концепции,
 о которых следует помнить. Отличное введение — [эта статья](http://www.supermemo.com/articles/20rules.htm) на сайте SuperMemo. В частности:</seg>
       </tuv>
     </tu>
