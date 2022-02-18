@@ -2411,6 +2411,19 @@ them. Tags are separated by a space. If the tags area says</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Below the note type, you'll see some buttons, and an area labelled
+"Front" and "Back". Front and Back are called 'fields', and you can add,
+remove, and rename them by clicking the "Fields…​" button above.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T121854Z" creationid="alexeygorelov" creationdate="20220218T121854Z">
+        <seg>Под типом записи вы увидите несколько кнопок и области под названиями "Лицевая"
+(англ. *Front*) и "Обратная" (англ. *Back*). Лицевая и Обратная области
+называются 'полями' и вы можете добавлять, удалять и переименовывать их, щелкнув
+по кнопке "Поля…​" выше.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Что-то в самой программе поля “Front”, “Back” и названия типов записей не переведены или не отображаются на русском.</note>
       <tuv lang="en-US">
         <seg>Below the note type, you’ll see some buttons, and an area labeled
