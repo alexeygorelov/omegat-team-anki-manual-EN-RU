@@ -709,6 +709,32 @@ should find yourself answering 'Good' instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>**Editing Font** allows you to customize the font and size used when
+editing notes. This is useful if you want to make unimportant
+information smaller, or increase the size of foreign characters which
+are hard to read. The changes you make here do not affect how cards
+appear when reviewing: to do that, please see the
+[templates](templates/intro.md) section. If you have enabled the "type in the
+answer" function, however, the text you type will use the font size
+defined here. (For information about how to change the actual font face
+when typing the answer, please see the [checking your
+answer](templates/fields.md#checking-your-answer) section.)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T122811Z" creationid="alexeygorelov" creationdate="20220218T122811Z">
+        <seg>**Шрифт в редакторе** позволяет настроить шрифт и размер шрифта при
+редактировании записей. Это полезно, если вы хотите сделать неважную информацию
+меньше или увеличить размер иностранных символов, которые трудно прочитать.
+Сделанные здесь изменения не влияют на то, как отображаются карточки при
+повторении: для этого смотрите раздел [шаблоны](templates/intro.md). Однако,
+если у вас включена функция "с вводом ответа", текст, который вы вводите, будет
+использовать заданный здесь размер шрифта. (Информацию о том, как изменить
+реальный вид шрифта при вводе ответа, смотрите в разделе
+[проверка своего ответа](templates/fields.md#Проверка-своего-ответа).)
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Перед ссылкой на шаблоны, в предыдущем абзаце ";" а тут ":"</note>
       <tuv lang="en-US">
         <seg>**Editing Font** allows you to customize the font and size used when
@@ -896,6 +922,22 @@ the answer).</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="alex" changedate="20210303T070946Z" creationid="alex" creationdate="20210303T070946Z">
         <seg>**Воспроизвести свой голос**: Воспроизвести предыдущую запись своего голоса (предположительно, после показа ответа).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Reverse text direction** is useful if you are studying languages that
+display text from right to left (RTL), such as Arabic or Hebrew. This
+setting currently only controls editing; to make sure the text displays
+correctly during review, you'll need to adjust your
+[template](templates/styling.md#text-direction).</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T122818Z" creationid="alexeygorelov" creationdate="20220218T122818Z">
+        <seg>**Направление текста справа-налево** полезно при изучении языка который
+отображает текст справа-налево (англ. *right to left (RTL)*), например, арабский
+или иврит. В настоящее время этот параметр управляет только редактированием;
+чтобы убедиться, что текст отображается правильно во время повторения,
+необходимо настраивать свой [шаблон](templates/styling.md).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2105,6 +2147,19 @@ show answer button, and Anki shows you:</seg>
       <tuv lang="ru-RU" changeid="alex" changedate="20200923T063537Z" creationid="alex" creationdate="20200923T063537Z">
         <seg>После обдумывания и принятия решения, что ответом является О, вы нажимаете
 кнопку показа ответа и Anki показывает вам:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After you have added fields, you will probably want to add them to the front
+or back of your cards. For more information on that, please see the
+[templates](templates/intro.md) section.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T124228Z" creationid="alexeygorelov" creationdate="20220218T124228Z">
+        <seg>&lt;!-----------------------------------------------------------------------------&gt;
+After you have added fields, you will probably want to add them to the front
+or back of your cards. For more information on that, please see the
+[templates](templates/intro.md) section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4147,6 +4202,17 @@ vocab type.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>To customize fields, click the "Fields…​" button when adding or editing
+a note, or while the note type is selected in the Manage Note Types
+window.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T122735Z" creationid="alexeygorelov" creationdate="20220218T122735Z">
+        <seg>Для настройки полей, нажмите кнопку "Поля…​" при добавлении или изменении
+записи, или когда тип записи выделен в окне Управления типами записей.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"или когда тип записи выделен в окне управления типами записей." --- пункт меню называется "Управлять типами записей", а окно называется "Типы записей".</note>
       <tuv lang="en-US">
         <seg>To customize fields, click the “Fields…​” button when adding or editing
@@ -4755,6 +4821,22 @@ turn](studying.md#display-order).</seg>
       <tuv lang="ru-RU" changeid="alex" changedate="20210815T152624Z" creationid="alex" creationdate="20210815T152225Z">
         <seg>Со старым планировщиком, если в колоде имеются подколоды, карточки отобразятся из [каждой колоды по
 очереди](studying.md#Порядок-отображения).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can add, remove, or rename fields by clicking the appropriate
+buttons. To change the order in which the fields appear in this dialog
+and the add notes dialog, you can use the reposition button, which asks
+for the numerical position you want the field to have. So if you want to
+change a field to be the new first field, enter "1".</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T122752Z" creationid="alexeygorelov" creationdate="20220218T122752Z">
+        <seg>Вы можете добавлять, удалять или переименовывать поля, нажимая соответствующие
+кнопки. Чтобы изменить порядок, в котором поля отображаются в этом диалоговом
+окне и окне добавления записей, можно использовать кнопку переместить, которая
+запрашивает порядковый номер, который должно иметь поле. Так, если вы хотите
+переместить поле на место первого поля, введите "1".</seg>
       </tuv>
     </tu>
     <tu>
