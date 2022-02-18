@@ -3781,6 +3781,20 @@ information, we can greatly reduce forgetting.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The top left of the window shows us the current note type. If it does
+not say "Basic," then you may have added some note types when you
+downloaded a shared deck. The text below assumes that "Basic" is
+selected.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T120948Z" creationid="alexeygorelov" creationdate="20220218T120948Z">
+        <seg>В верхней левой части окна отображается текущий тип записи. Если он не указан
+как "Basic", то, возможно, вы добавили некоторые типы записей вместе со
+скачанными когда-то общими колодами. Следующий текст предполагает, что выбран
+тип "Basic".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>В “Basic,” запятая в ковычках.</note>
       <tuv lang="en-US">
         <seg>The top left of the window shows us the current note type. If it does
@@ -3793,6 +3807,18 @@ selected.</seg>
 как "Basic", то, возможно, вы добавили некоторые типы записей вместе со
 скачанными когда-то общими колодами. Следующий текст предполагает, что выбран
 тип "Basic".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The top right of the window shows us the deck cards will be added to. If
+you would like to add cards to a new deck, you can click on the deck name
+button and then click "Add".</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T121625Z" creationid="alexeygorelov" creationdate="20220218T121625Z">
+        <seg>В верхней правой части окна отображается колода, в которую будут добавляться
+карточки. Если хотите добавить карточки в новую колоду, вы можете нажать на
+названии колоды и затем нажать "Добавить".</seg>
       </tuv>
     </tu>
     <tu>
