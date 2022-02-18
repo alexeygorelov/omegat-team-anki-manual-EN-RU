@@ -2047,6 +2047,20 @@ an update.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>After choosing OK, you will be asked to name the new type. The subject
+material that you are studying is a good choice here – things like "Japanese",
+"Trivia", and so on. Once you have chosen a name, close the Note Types
+window, and you will return to the adding window.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T122724Z" creationid="alexeygorelov" creationdate="20220218T122724Z">
+        <seg>После выбора ОК вам будет предложено назвать новый тип. Тема материала, который
+вы сейчас изучаете, будет хорошим выбором, например, такие вещи как "Японский",
+"Викторина" и так далее. Выбрав имя, закройте окно Типы записей и вы вернётесь
+в окно добавления.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Выбрав имя, закройте окно Типы записей и вы вернётесь в окно добавления. --- что-то названия окон в программе немного не совпадает с тем что написано. Введя название мы возврящаемся в окно "Типы записей", а закрываемое окно --- "Добавить тип записи".</note>
       <tuv lang="en-US">
         <seg>After choosing OK, you’ll be asked to name the new type. The subject
@@ -4091,6 +4105,28 @@ can change the order in the [browser](browsing.md).</seg>
     <tu>
       <tuv lang="en-US">
         <seg>To create a new type of note, choose Tools → Manage Note Types from the
+main Anki window. Then click "Add" to add a new type of note. You will now
+see another screen that gives you a choice of note types to base the new
+type on. "Add" means to base the newly created type on one that comes
+with Anki. "Clone" means to base the newly created type on one that is
+already in your collection. For instance, if you'd created a French
+vocab type already, you might want to clone that when creating a German
+vocab type.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T122652Z" creationid="alexeygorelov" creationdate="20220218T122652Z">
+        <seg>Чтобы создать новый тип записи, выберите Инструменты → Управлять типами записей
+в главном окне Anki. Затем нажмите "Добавить", чтобы добавить новый тип записи.
+Теперь вы увидите другой экран, в котором предлагается выбрать тип записи как
+основу нового типа. "Добавить" означает, создание нового типа на основе того,
+который изначально идёт с Anki. "Клонировать" означает, создание нового типа на
+основе того, который ужу находится в вашей коллекции. Например, если вы уже
+создали тип французский словарь, то, возможно вы захотите клонировать его при
+создании типа немецкий словарь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To create a new type of note, choose Tools → Manage Note Types from the
 main Anki window. Then click “Add” to add a new type of note. You’ll now
 see another screen that gives you a choice of note types to base the new
 type on. “Add” means to base the newly created type on one that comes
@@ -4589,6 +4625,20 @@ card in the [browser](browsing.md).</seg>
       <tuv lang="en-US">
         <seg>While basic note types are sufficient for simple cards with only a word
 or phrase on each side, as soon as you find yourself wanting to include
+more than one piece of information on the front or back, it's better to
+split that information up into more fields.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T122445Z" creationid="alexeygorelov" creationdate="20220218T122445Z">
+        <seg>В то время как основных типов записей достаточно для карточек с одним словом
+или фразой с каждой стороны, как только вы захотите добавлять больше одного
+фрагмента информации на лицевую или обратную стороны, лучше начать делить эту
+информацию на большее количество полей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While basic note types are sufficient for simple cards with only a word
+or phrase on each side, as soon as you find yourself wanting to include
 more than one piece of information on the front or back, it’s better to
 split that information up into more fields.</seg>
       </tuv>
@@ -4810,6 +4860,32 @@ chances you will be able to remember the material in the future.</seg>
 или давали проверочную работу, они делали это не просто, чтобы увидеть, поняли
 вы материал или нет. Проверяя вас, они увеличивали шанс, что вы вспомните это
 в будущем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may find yourself thinking "but I only want one card, so why can't I
+just include the audio, a picture, a hint, and the translation in the
+Front field?" If you'd prefer to do that, that's fine. But the
+disadvantage of that approach is that all the information is stuck
+together. If you wanted to sort your cards by the hint, you wouldn't be
+able to do that as it is mixed in with the other content. You also
+wouldn't be able to do things such as moving the audio from the front to the
+back, except by laboriously copying and pasting it for every note. By
+keeping content in separate fields, you make it much easier to adjust
+the layout of your cards in the future.</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="alexeygorelov" changedate="20220218T122640Z" creationid="alexeygorelov" creationdate="20220218T122640Z">
+        <seg>Вы можете подумать: "но я хочу лишь одну карточку, так почему я не могу просто
+добавить аудио, картинку, подсказку и перевод в Лицевом поле?" Если вы
+предпочитаете делать именно так, то это нормально. Но недостатком этого подхода
+является то, что вся информация оказывается склеенной. Если вы захотите
+отсортировать ваши корточки по подсказке, то не сможете этого сделать т.к. эта
+информация будет смешана с другим содержимым. Вы также не сможете делать такие
+вещи как, например, перенос аудио с лицевой стороны на оборотную без
+кропотливого копирования и вставки его для каждой отдельной записи. Держа
+информацию в разных полях, вы значительно облегчаете настройку внешнего вида
+ваших карточек в дальнейшем.</seg>
       </tuv>
     </tu>
     <tu>
